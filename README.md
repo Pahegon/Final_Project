@@ -11,9 +11,10 @@ Analysis of world grain (cereal) production in last years
 
 3) Dataset description:
 	
-	- Word grain production (producers, consumer countries, types of grain, prices...). FAO (Food and Agriculture Organization of the United Nations). At this moment around 18 GB of files to clean.
+	- World grain production (producers, consumer countries, types of grain, prices...). FAO (Food and Agriculture Organization of the United Nations). At this moment around 18 GB of files to clean.
 
 		a) Top producers, top buyers, , grain types, cereals consumption, evolution of prices
+
 		b) Optional: Risk factors for cereal production (leak of pesticides, droughts, natural disasters...) and countries most affected by a reduction in production.
 	
 
