@@ -1,6 +1,6 @@
 # Final_Project
 
-Analysis of world grain (cereal) production in last years.
+Analysis of world grain (cereal) production in last years
 
 
 1) Project management (members): Pablo Herranz
@@ -14,7 +14,7 @@ Analysis of world grain (cereal) production in last years.
 	- Word grain production (producers, consumer countries, types of grain, prices...). FAO (Food and Agriculture Organization of the United Nations). At this moment around 1 TB of compressed files to clean.
 
 		a) Top producers, top buyers, , grain types, cereals consumption, evolution of prices
-		b) Optional: Risk factors for cereal production (leak of pesticides, drought, natural disasters...) and countries most affected by a reduction in production.
+		b) Optional: Risk factors for cereal production (leak of pesticides, droughts, natural disasters...) and countries most affected by a reduction in production.
 	
 
 	- Prediction of the world grain production. FAO and main word agriculture production websites (web scraping). 
