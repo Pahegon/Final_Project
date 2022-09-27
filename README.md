@@ -32,7 +32,7 @@ Analysis of world grain (cereal) production in last years.
 	
 	 - Friday-Wednesday (second week):
 
-	  1.- Tableau Dashboards Design
+	   1.- Tableau Dashboards Design
 
 	 - Wednesday-Thursday:
 
