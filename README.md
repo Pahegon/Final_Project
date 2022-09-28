@@ -29,8 +29,11 @@ Analysis of world grain (cereal) production in last years
 	- Wednesday-Sunday: 
 
           1.- Cleaning Data (Python).
+
 	  2.- DF design/develop (csv files).
+
 	  3.- Importation to MySQL and define the queries that will be used in Tableau (MySQL).
+
 	  4.- Web scraping for getting the world grain prediction for 2022/2023 and DF developing
 
 	
