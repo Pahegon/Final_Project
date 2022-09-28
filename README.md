@@ -36,10 +36,12 @@ Analysis of world grain (cereal) production in last years
 
 	  4.- Web scraping for getting the world grain prediction for 2022/2023 and DF developing
 
+
 	
 	 - Friday-Wednesday (second week):
 
-	   1.- Tableau Dashboards Design
+	   1.- Tableau Dashboards desing
+
 
 
 	 - Wednesday-Thursday:
