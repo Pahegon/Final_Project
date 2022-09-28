@@ -6,7 +6,9 @@ Analysis of world grain (cereal) production in last years
 1) Project management (members): Pablo Herranz
 
 
+
 2) Goal of the project (BI project): Explain the evolution of grain/cereal production all over the world, determine the production tendency and compare it with the predictions for 2022/2023.
+
 
 
 3) Dataset description:
@@ -19,6 +21,7 @@ Analysis of world grain (cereal) production in last years
 	
 
 	- Prediction of the world grain production. FAO and main word agriculture production websites (web scraping). 
+
 
 
 4) Timetable:
