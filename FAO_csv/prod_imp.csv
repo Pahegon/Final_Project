@@ -1,0 +1,1636 @@
+,Area,Item,Element,Year,Unit,Value
+504,Argentina,Barley,Production,2000,tonnes,722490.0
+505,Argentina,Barley,Production,2001,tonnes,530045.0
+506,Argentina,Barley,Production,2002,tonnes,549830.0
+507,Argentina,Barley,Production,2003,tonnes,1005460.0
+508,Argentina,Barley,Production,2004,tonnes,894610.0
+509,Argentina,Barley,Production,2005,tonnes,799423.0
+510,Argentina,Barley,Production,2006,tonnes,1268465.0
+511,Argentina,Barley,Production,2007,tonnes,1474510.0
+512,Argentina,Barley,Production,2008,tonnes,1681880.0
+513,Argentina,Barley,Production,2009,tonnes,1355801.0
+514,Argentina,Barley,Production,2010,tonnes,2964075.0
+515,Argentina,Barley,Production,2011,tonnes,4085770.0
+516,Argentina,Barley,Production,2012,tonnes,5158180.0
+517,Argentina,Barley,Production,2013,tonnes,4705160.0
+518,Argentina,Barley,Production,2014,tonnes,2901492.0
+519,Argentina,Barley,Production,2015,tonnes,2901495.0
+520,Argentina,Barley,Production,2016,tonnes,4938723.0
+521,Argentina,Barley,Production,2017,tonnes,3741158.0
+522,Argentina,Barley,Production,2018,tonnes,5061069.0
+523,Argentina,Barley,Production,2019,tonnes,4702068.0
+524,Argentina,Barley,Production,2020,tonnes,4483062.0
+525,Argentina,Maize (corn),Production,2000,tonnes,16780650.0
+526,Argentina,Maize (corn),Production,2001,tonnes,15359397.0
+527,Argentina,Maize (corn),Production,2002,tonnes,14712079.0
+528,Argentina,Maize (corn),Production,2003,tonnes,15044529.0
+529,Argentina,Maize (corn),Production,2004,tonnes,14950825.0
+530,Argentina,Maize (corn),Production,2005,tonnes,20482572.0
+531,Argentina,Maize (corn),Production,2006,tonnes,14445538.0
+532,Argentina,Maize (corn),Production,2007,tonnes,21755364.0
+533,Argentina,Maize (corn),Production,2008,tonnes,22016926.0
+534,Argentina,Maize (corn),Production,2009,tonnes,13121380.0
+535,Argentina,Maize (corn),Production,2010,tonnes,22663095.0
+536,Argentina,Maize (corn),Production,2011,tonnes,23799830.0
+537,Argentina,Maize (corn),Production,2012,tonnes,21196637.0
+538,Argentina,Maize (corn),Production,2013,tonnes,32119211.0
+539,Argentina,Maize (corn),Production,2014,tonnes,33087165.0
+540,Argentina,Maize (corn),Production,2015,tonnes,33817744.0
+541,Argentina,Maize (corn),Production,2016,tonnes,39792854.0
+542,Argentina,Maize (corn),Production,2017,tonnes,49475895.0
+543,Argentina,Maize (corn),Production,2018,tonnes,43462323.0
+544,Argentina,Maize (corn),Production,2019,tonnes,56860704.0
+545,Argentina,Maize (corn),Production,2020,tonnes,58395811.0
+546,Argentina,Millet,Production,2000,tonnes,47920.0
+547,Argentina,Millet,Production,2001,tonnes,31210.0
+548,Argentina,Millet,Production,2002,tonnes,28070.0
+549,Argentina,Millet,Production,2003,tonnes,21850.0
+550,Argentina,Millet,Production,2004,tonnes,11375.0
+551,Argentina,Millet,Production,2005,tonnes,16277.0
+552,Argentina,Millet,Production,2006,tonnes,15518.0
+553,Argentina,Millet,Production,2007,tonnes,14484.0
+554,Argentina,Millet,Production,2008,tonnes,14824.0
+555,Argentina,Millet,Production,2009,tonnes,5880.0
+556,Argentina,Millet,Production,2010,tonnes,9115.0
+557,Argentina,Millet,Production,2011,tonnes,7990.0
+558,Argentina,Millet,Production,2012,tonnes,17414.0
+559,Argentina,Millet,Production,2013,tonnes,11192.0
+560,Argentina,Millet,Production,2014,tonnes,2670.0
+561,Argentina,Millet,Production,2015,tonnes,4640.0
+562,Argentina,Millet,Production,2016,tonnes,6867.0
+563,Argentina,Millet,Production,2017,tonnes,5328.0
+564,Argentina,Millet,Production,2018,tonnes,2254.0
+565,Argentina,Millet,Production,2019,tonnes,4140.0
+566,Argentina,Millet,Production,2020,tonnes,5441.0
+567,Argentina,Oats,Production,2000,tonnes,554708.0
+568,Argentina,Oats,Production,2001,tonnes,644150.0
+569,Argentina,Oats,Production,2002,tonnes,664760.0
+570,Argentina,Oats,Production,2003,tonnes,487510.0
+571,Argentina,Oats,Production,2004,tonnes,331994.0
+572,Argentina,Oats,Production,2005,tonnes,536091.0
+573,Argentina,Oats,Production,2006,tonnes,226910.0
+574,Argentina,Oats,Production,2007,tonnes,242960.0
+575,Argentina,Oats,Production,2008,tonnes,472420.0
+576,Argentina,Oats,Production,2009,tonnes,290525.0
+577,Argentina,Oats,Production,2010,tonnes,181990.0
+578,Argentina,Oats,Production,2011,tonnes,660200.0
+579,Argentina,Oats,Production,2012,tonnes,414990.0
+580,Argentina,Oats,Production,2013,tonnes,495940.0
+581,Argentina,Oats,Production,2014,tonnes,444820.0
+582,Argentina,Oats,Production,2015,tonnes,524716.0
+583,Argentina,Oats,Production,2016,tonnes,553435.0
+584,Argentina,Oats,Production,2017,tonnes,784981.0
+585,Argentina,Oats,Production,2018,tonnes,491713.0
+586,Argentina,Oats,Production,2019,tonnes,571630.0
+587,Argentina,Oats,Production,2020,tonnes,600105.0
+588,Argentina,Rice,Production,2000,tonnes,903630.0
+589,Argentina,Rice,Production,2001,tonnes,873183.0
+590,Argentina,Rice,Production,2002,tonnes,709295.0
+591,Argentina,Rice,Production,2003,tonnes,717630.0
+592,Argentina,Rice,Production,2004,tonnes,1060083.0
+593,Argentina,Rice,Production,2005,tonnes,956253.0
+594,Argentina,Rice,Production,2006,tonnes,1193492.0
+595,Argentina,Rice,Production,2007,tonnes,1080070.0
+596,Argentina,Rice,Production,2008,tonnes,1245800.0
+597,Argentina,Rice,Production,2009,tonnes,1334155.0
+598,Argentina,Rice,Production,2010,tonnes,1243259.0
+599,Argentina,Rice,Production,2011,tonnes,1748075.0
+600,Argentina,Rice,Production,2012,tonnes,1567971.0
+601,Argentina,Rice,Production,2013,tonnes,1563450.0
+602,Argentina,Rice,Production,2014,tonnes,1581810.0
+603,Argentina,Rice,Production,2015,tonnes,1558100.0
+604,Argentina,Rice,Production,2016,tonnes,1404980.0
+605,Argentina,Rice,Production,2017,tonnes,1328340.0
+606,Argentina,Rice,Production,2018,tonnes,1367968.0
+607,Argentina,Rice,Production,2019,tonnes,1189866.0
+608,Argentina,Rice,Production,2020,tonnes,1222910.0
+609,Argentina,Rye,Production,2000,tonnes,116155.0
+610,Argentina,Rye,Production,2001,tonnes,129750.0
+611,Argentina,Rye,Production,2002,tonnes,86530.0
+612,Argentina,Rye,Production,2003,tonnes,79150.0
+613,Argentina,Rye,Production,2004,tonnes,36670.0
+614,Argentina,Rye,Production,2005,tonnes,91870.0
+615,Argentina,Rye,Production,2006,tonnes,33070.0
+616,Argentina,Rye,Production,2007,tonnes,17483.0
+617,Argentina,Rye,Production,2008,tonnes,77180.0
+618,Argentina,Rye,Production,2009,tonnes,33859.0
+619,Argentina,Rye,Production,2010,tonnes,25135.0
+620,Argentina,Rye,Production,2011,tonnes,44460.0
+621,Argentina,Rye,Production,2012,tonnes,43110.0
+622,Argentina,Rye,Production,2013,tonnes,39700.0
+623,Argentina,Rye,Production,2014,tonnes,52130.0
+624,Argentina,Rye,Production,2015,tonnes,97398.0
+625,Argentina,Rye,Production,2016,tonnes,60676.0
+626,Argentina,Rye,Production,2017,tonnes,78810.0
+627,Argentina,Rye,Production,2018,tonnes,86098.0
+628,Argentina,Rye,Production,2019,tonnes,86566.0
+629,Argentina,Rye,Production,2020,tonnes,221201.0
+630,Argentina,Sorghum,Production,2000,tonnes,3344493.0
+631,Argentina,Sorghum,Production,2001,tonnes,2908775.0
+632,Argentina,Sorghum,Production,2002,tonnes,2847225.0
+633,Argentina,Sorghum,Production,2003,tonnes,2684780.0
+634,Argentina,Sorghum,Production,2004,tonnes,2164953.0
+635,Argentina,Sorghum,Production,2005,tonnes,2894250.0
+636,Argentina,Sorghum,Production,2006,tonnes,2327865.0
+637,Argentina,Sorghum,Production,2007,tonnes,2794967.0
+638,Argentina,Sorghum,Production,2008,tonnes,2936840.0
+639,Argentina,Sorghum,Production,2009,tonnes,1471270.0
+640,Argentina,Sorghum,Production,2010,tonnes,3637427.0
+641,Argentina,Sorghum,Production,2011,tonnes,4458442.0
+642,Argentina,Sorghum,Production,2012,tonnes,4252310.0
+643,Argentina,Sorghum,Production,2013,tonnes,3635837.0
+644,Argentina,Sorghum,Production,2014,tonnes,3466410.0
+645,Argentina,Sorghum,Production,2015,tonnes,3098148.0
+646,Argentina,Sorghum,Production,2016,tonnes,3029330.0
+647,Argentina,Sorghum,Production,2017,tonnes,2526931.0
+648,Argentina,Sorghum,Production,2018,tonnes,1563445.0
+649,Argentina,Sorghum,Production,2019,tonnes,1601435.0
+650,Argentina,Sorghum,Production,2020,tonnes,1829914.0
+651,Argentina,Soya beans,Production,2000,tonnes,20135800.0
+652,Argentina,Soya beans,Production,2001,tonnes,26880852.0
+653,Argentina,Soya beans,Production,2002,tonnes,30000000.0
+654,Argentina,Soya beans,Production,2003,tonnes,34818552.0
+655,Argentina,Soya beans,Production,2004,tonnes,31576752.0
+656,Argentina,Soya beans,Production,2005,tonnes,38289744.0
+657,Argentina,Soya beans,Production,2006,tonnes,40537364.0
+658,Argentina,Soya beans,Production,2007,tonnes,47482784.0
+659,Argentina,Soya beans,Production,2008,tonnes,46238088.0
+660,Argentina,Soya beans,Production,2009,tonnes,30993380.0
+661,Argentina,Soya beans,Production,2010,tonnes,52675464.0
+662,Argentina,Soya beans,Production,2011,tonnes,48888536.0
+663,Argentina,Soya beans,Production,2012,tonnes,40100196.0
+664,Argentina,Soya beans,Production,2013,tonnes,49306200.0
+665,Argentina,Soya beans,Production,2014,tonnes,53397715.0
+666,Argentina,Soya beans,Production,2015,tonnes,61446556.0
+667,Argentina,Soya beans,Production,2016,tonnes,58799258.0
+668,Argentina,Soya beans,Production,2017,tonnes,54971626.0
+669,Argentina,Soya beans,Production,2018,tonnes,37787927.0
+670,Argentina,Soya beans,Production,2019,tonnes,55263891.0
+671,Argentina,Soya beans,Production,2020,tonnes,48796661.0
+672,Argentina,Wheat,Production,2000,tonnes,15478660.0
+673,Argentina,Wheat,Production,2001,tonnes,16146620.0
+674,Argentina,Wheat,Production,2002,tonnes,15427820.0
+675,Argentina,Wheat,Production,2003,tonnes,12399040.0
+676,Argentina,Wheat,Production,2004,tonnes,14710175.0
+677,Argentina,Wheat,Production,2005,tonnes,16139170.0
+678,Argentina,Wheat,Production,2006,tonnes,12721976.0
+679,Argentina,Wheat,Production,2007,tonnes,14662945.0
+680,Argentina,Wheat,Production,2008,tonnes,16486532.0
+681,Argentina,Wheat,Production,2009,tonnes,8508156.0
+682,Argentina,Wheat,Production,2010,tonnes,9016373.0
+683,Argentina,Wheat,Production,2011,tonnes,16067929.0
+684,Argentina,Wheat,Production,2012,tonnes,14683475.0
+685,Argentina,Wheat,Production,2013,tonnes,8134409.0
+686,Argentina,Wheat,Production,2014,tonnes,9188339.0
+687,Argentina,Wheat,Production,2015,tonnes,13930078.0
+688,Argentina,Wheat,Production,2016,tonnes,11314952.0
+689,Argentina,Wheat,Production,2017,tonnes,18395106.0
+690,Argentina,Wheat,Production,2018,tonnes,18518045.0
+691,Argentina,Wheat,Production,2019,tonnes,19459727.0
+692,Argentina,Wheat,Production,2020,tonnes,19776942.0
+2463,Brazil,Barley,Production,2000,tonnes,282826.0
+2464,Brazil,Barley,Production,2001,tonnes,297824.0
+2465,Brazil,Barley,Production,2002,tonnes,244600.0
+2466,Brazil,Barley,Production,2003,tonnes,345320.0
+2467,Brazil,Barley,Production,2004,tonnes,397160.0
+2468,Brazil,Barley,Production,2005,tonnes,326251.0
+2469,Brazil,Barley,Production,2006,tonnes,202940.0
+2470,Brazil,Barley,Production,2007,tonnes,235577.0
+2471,Brazil,Barley,Production,2008,tonnes,236912.0
+2472,Brazil,Barley,Production,2009,tonnes,201249.0
+2473,Brazil,Barley,Production,2010,tonnes,278558.0
+2474,Brazil,Barley,Production,2011,tonnes,303872.0
+2475,Brazil,Barley,Production,2012,tonnes,265025.0
+2476,Brazil,Barley,Production,2013,tonnes,330682.0
+2477,Brazil,Barley,Production,2014,tonnes,251539.0
+2478,Brazil,Barley,Production,2015,tonnes,186285.0
+2479,Brazil,Barley,Production,2016,tonnes,379687.0
+2480,Brazil,Barley,Production,2017,tonnes,302731.0
+2481,Brazil,Barley,Production,2018,tonnes,330374.0
+2482,Brazil,Barley,Production,2019,tonnes,405615.0
+2483,Brazil,Barley,Production,2020,tonnes,387146.0
+2484,Brazil,Maize (corn),Production,2000,tonnes,32321000.0
+2485,Brazil,Maize (corn),Production,2001,tonnes,41962475.0
+2486,Brazil,Maize (corn),Production,2002,tonnes,35940832.0
+2487,Brazil,Maize (corn),Production,2003,tonnes,48327323.0
+2488,Brazil,Maize (corn),Production,2004,tonnes,41787558.0
+2489,Brazil,Maize (corn),Production,2005,tonnes,35113312.0
+2490,Brazil,Maize (corn),Production,2006,tonnes,42661677.0
+2491,Brazil,Maize (corn),Production,2007,tonnes,52112217.0
+2492,Brazil,Maize (corn),Production,2008,tonnes,58933347.0
+2493,Brazil,Maize (corn),Production,2009,tonnes,50719822.0
+2494,Brazil,Maize (corn),Production,2010,tonnes,55364271.0
+2495,Brazil,Maize (corn),Production,2011,tonnes,55660235.0
+2496,Brazil,Maize (corn),Production,2012,tonnes,71072810.0
+2497,Brazil,Maize (corn),Production,2013,tonnes,80273172.0
+2498,Brazil,Maize (corn),Production,2014,tonnes,79881614.0
+2499,Brazil,Maize (corn),Production,2015,tonnes,85283074.0
+2500,Brazil,Maize (corn),Production,2016,tonnes,64188314.0
+2501,Brazil,Maize (corn),Production,2017,tonnes,97910658.0
+2502,Brazil,Maize (corn),Production,2018,tonnes,82366531.0
+2503,Brazil,Maize (corn),Production,2019,tonnes,101126409.0
+2504,Brazil,Maize (corn),Production,2020,tonnes,103963620.0
+2505,Brazil,Oats,Production,2000,tonnes,214276.0
+2506,Brazil,Oats,Production,2001,tonnes,342476.0
+2507,Brazil,Oats,Production,2002,tonnes,298686.0
+2508,Brazil,Oats,Production,2003,tonnes,435092.0
+2509,Brazil,Oats,Production,2004,tonnes,459526.0
+2510,Brazil,Oats,Production,2005,tonnes,522428.0
+2511,Brazil,Oats,Production,2006,tonnes,405657.0
+2512,Brazil,Oats,Production,2007,tonnes,237801.0
+2513,Brazil,Oats,Production,2008,tonnes,238516.0
+2514,Brazil,Oats,Production,2009,tonnes,252503.0
+2515,Brazil,Oats,Production,2010,tonnes,395056.0
+2516,Brazil,Oats,Production,2011,tonnes,373009.0
+2517,Brazil,Oats,Production,2012,tonnes,431024.0
+2518,Brazil,Oats,Production,2013,tonnes,520397.0
+2519,Brazil,Oats,Production,2014,tonnes,432136.0
+2520,Brazil,Oats,Production,2015,tonnes,504957.0
+2521,Brazil,Oats,Production,2016,tonnes,872830.0
+2522,Brazil,Oats,Production,2017,tonnes,625769.0
+2523,Brazil,Oats,Production,2018,tonnes,899244.0
+2524,Brazil,Oats,Production,2019,tonnes,930281.0
+2525,Brazil,Oats,Production,2020,tonnes,898277.0
+2526,Brazil,Rice,Production,2000,tonnes,11134588.0
+2527,Brazil,Rice,Production,2001,tonnes,10184185.0
+2528,Brazil,Rice,Production,2002,tonnes,10445986.0
+2529,Brazil,Rice,Production,2003,tonnes,10334603.0
+2530,Brazil,Rice,Production,2004,tonnes,13277008.0
+2531,Brazil,Rice,Production,2005,tonnes,13192863.0
+2532,Brazil,Rice,Production,2006,tonnes,11526685.0
+2533,Brazil,Rice,Production,2007,tonnes,11060741.0
+2534,Brazil,Rice,Production,2008,tonnes,12061465.0
+2535,Brazil,Rice,Production,2009,tonnes,12651144.0
+2536,Brazil,Rice,Production,2010,tonnes,11235986.0
+2537,Brazil,Rice,Production,2011,tonnes,13476994.0
+2538,Brazil,Rice,Production,2012,tonnes,11549881.0
+2539,Brazil,Rice,Production,2013,tonnes,11782549.0
+2540,Brazil,Rice,Production,2014,tonnes,12175602.0
+2541,Brazil,Rice,Production,2015,tonnes,12301201.0
+2542,Brazil,Rice,Production,2016,tonnes,10622189.0
+2543,Brazil,Rice,Production,2017,tonnes,12464766.0
+2544,Brazil,Rice,Production,2018,tonnes,11808412.0
+2545,Brazil,Rice,Production,2019,tonnes,10368639.0
+2546,Brazil,Rice,Production,2020,tonnes,11091011.0
+2547,Brazil,Rye,Production,2000,tonnes,6948.0
+2548,Brazil,Rye,Production,2001,tonnes,8308.0
+2549,Brazil,Rye,Production,2002,tonnes,5073.0
+2550,Brazil,Rye,Production,2003,tonnes,3814.0
+2551,Brazil,Rye,Production,2004,tonnes,4315.0
+2552,Brazil,Rye,Production,2005,tonnes,6109.0
+2553,Brazil,Rye,Production,2006,tonnes,2353.0
+2554,Brazil,Rye,Production,2007,tonnes,4620.0
+2555,Brazil,Rye,Production,2008,tonnes,6085.0
+2556,Brazil,Rye,Production,2009,tonnes,3921.0
+2557,Brazil,Rye,Production,2010,tonnes,3165.0
+2558,Brazil,Rye,Production,2011,tonnes,3519.0
+2559,Brazil,Rye,Production,2012,tonnes,7777.0
+2560,Brazil,Rye,Production,2013,tonnes,5743.0
+2561,Brazil,Rye,Production,2014,tonnes,4452.0
+2562,Brazil,Rye,Production,2015,tonnes,4916.0
+2563,Brazil,Rye,Production,2016,tonnes,6477.0
+2564,Brazil,Rye,Production,2017,tonnes,7577.0
+2565,Brazil,Rye,Production,2018,tonnes,8297.0
+2566,Brazil,Rye,Production,2019,tonnes,10320.0
+2567,Brazil,Rye,Production,2020,tonnes,9263.0
+2568,Brazil,Sorghum,Production,2000,tonnes,792759.0
+2569,Brazil,Sorghum,Production,2001,tonnes,914452.0
+2570,Brazil,Sorghum,Production,2002,tonnes,786757.0
+2571,Brazil,Sorghum,Production,2003,tonnes,1804920.0
+2572,Brazil,Sorghum,Production,2004,tonnes,2158872.0
+2573,Brazil,Sorghum,Production,2005,tonnes,1522839.0
+2574,Brazil,Sorghum,Production,2006,tonnes,1604920.0
+2575,Brazil,Sorghum,Production,2007,tonnes,1440750.0
+2576,Brazil,Sorghum,Production,2008,tonnes,2004005.0
+2577,Brazil,Sorghum,Production,2009,tonnes,1853934.0
+2578,Brazil,Sorghum,Production,2010,tonnes,1532064.0
+2579,Brazil,Sorghum,Production,2011,tonnes,1931135.0
+2580,Brazil,Sorghum,Production,2012,tonnes,2016873.0
+2581,Brazil,Sorghum,Production,2013,tonnes,2126179.0
+2582,Brazil,Sorghum,Production,2014,tonnes,2279114.0
+2583,Brazil,Sorghum,Production,2015,tonnes,2136450.0
+2584,Brazil,Sorghum,Production,2016,tonnes,1154456.0
+2585,Brazil,Sorghum,Production,2017,tonnes,2223627.0
+2586,Brazil,Sorghum,Production,2018,tonnes,2281316.0
+2587,Brazil,Sorghum,Production,2019,tonnes,2672245.0
+2588,Brazil,Sorghum,Production,2020,tonnes,2769254.0
+2589,Brazil,Soya beans,Production,2000,tonnes,32820826.0
+2590,Brazil,Soya beans,Production,2001,tonnes,37907259.0
+2591,Brazil,Soya beans,Production,2002,tonnes,42107618.0
+2592,Brazil,Soya beans,Production,2003,tonnes,51919440.0
+2593,Brazil,Soya beans,Production,2004,tonnes,49549940.0
+2594,Brazil,Soya beans,Production,2005,tonnes,51182072.0
+2595,Brazil,Soya beans,Production,2006,tonnes,52464640.0
+2596,Brazil,Soya beans,Production,2007,tonnes,57857172.0
+2597,Brazil,Soya beans,Production,2008,tonnes,59833104.0
+2598,Brazil,Soya beans,Production,2009,tonnes,57345382.0
+2599,Brazil,Soya beans,Production,2010,tonnes,68756343.0
+2600,Brazil,Soya beans,Production,2011,tonnes,74815447.0
+2601,Brazil,Soya beans,Production,2012,tonnes,65848857.0
+2602,Brazil,Soya beans,Production,2013,tonnes,81724477.0
+2603,Brazil,Soya beans,Production,2014,tonnes,86760520.0
+2604,Brazil,Soya beans,Production,2015,tonnes,97464936.0
+2605,Brazil,Soya beans,Production,2016,tonnes,96394820.0
+2606,Brazil,Soya beans,Production,2017,tonnes,114732101.0
+2607,Brazil,Soya beans,Production,2018,tonnes,117912450.0
+2608,Brazil,Soya beans,Production,2019,tonnes,114316829.0
+2609,Brazil,Soya beans,Production,2020,tonnes,121797712.0
+2610,Brazil,Wheat,Production,2000,tonnes,1725792.0
+2611,Brazil,Wheat,Production,2001,tonnes,3366599.0
+2612,Brazil,Wheat,Production,2002,tonnes,3105660.0
+2613,Brazil,Wheat,Production,2003,tonnes,6153500.0
+2614,Brazil,Wheat,Production,2004,tonnes,5818846.0
+2615,Brazil,Wheat,Production,2005,tonnes,4658790.0
+2616,Brazil,Wheat,Production,2006,tonnes,2484848.0
+2617,Brazil,Wheat,Production,2007,tonnes,4114057.0
+2618,Brazil,Wheat,Production,2008,tonnes,6027131.0
+2619,Brazil,Wheat,Production,2009,tonnes,5055525.0
+2620,Brazil,Wheat,Production,2010,tonnes,6171250.0
+2621,Brazil,Wheat,Production,2011,tonnes,5690043.0
+2622,Brazil,Wheat,Production,2012,tonnes,4418388.0
+2623,Brazil,Wheat,Production,2013,tonnes,5738473.0
+2624,Brazil,Wheat,Production,2014,tonnes,6261895.0
+2625,Brazil,Wheat,Production,2015,tonnes,5508451.0
+2626,Brazil,Wheat,Production,2016,tonnes,6834421.0
+2627,Brazil,Wheat,Production,2017,tonnes,4342812.0
+2628,Brazil,Wheat,Production,2018,tonnes,5469236.0
+2629,Brazil,Wheat,Production,2019,tonnes,5590815.0
+2630,Brazil,Wheat,Production,2020,tonnes,6347987.0
+3279,Canada,Barley,Production,2000,tonnes,13228600.0
+3280,Canada,Barley,Production,2001,tonnes,10845600.0
+3281,Canada,Barley,Production,2002,tonnes,7467700.0
+3282,Canada,Barley,Production,2003,tonnes,12164200.0
+3283,Canada,Barley,Production,2004,tonnes,12556700.0
+3284,Canada,Barley,Production,2005,tonnes,11677600.0
+3285,Canada,Barley,Production,2006,tonnes,9573100.0
+3286,Canada,Barley,Production,2007,tonnes,10909800.0
+3287,Canada,Barley,Production,2008,tonnes,11785800.0
+3288,Canada,Barley,Production,2009,tonnes,9528200.0
+3289,Canada,Barley,Production,2010,tonnes,7627200.0
+3290,Canada,Barley,Production,2011,tonnes,7891500.0
+3291,Canada,Barley,Production,2012,tonnes,8012300.0
+3292,Canada,Barley,Production,2013,tonnes,10281600.0
+3293,Canada,Barley,Production,2014,tonnes,7116800.0
+3294,Canada,Barley,Production,2015,tonnes,8256600.0
+3295,Canada,Barley,Production,2016,tonnes,8839400.0
+3296,Canada,Barley,Production,2017,tonnes,7891300.0
+3297,Canada,Barley,Production,2018,tonnes,8379700.0
+3298,Canada,Barley,Production,2019,tonnes,10382600.0
+3299,Canada,Barley,Production,2020,tonnes,10740600.0
+3300,Canada,Maize (corn),Production,2000,tonnes,6953700.0
+3301,Canada,Maize (corn),Production,2001,tonnes,8389200.0
+3302,Canada,Maize (corn),Production,2002,tonnes,8998800.0
+3303,Canada,Maize (corn),Production,2003,tonnes,9587300.0
+3304,Canada,Maize (corn),Production,2004,tonnes,8836800.0
+3305,Canada,Maize (corn),Production,2005,tonnes,9332200.0
+3306,Canada,Maize (corn),Production,2006,tonnes,8989800.0
+3307,Canada,Maize (corn),Production,2007,tonnes,11648700.0
+3308,Canada,Maize (corn),Production,2008,tonnes,10592000.0
+3309,Canada,Maize (corn),Production,2009,tonnes,9561200.0
+3310,Canada,Maize (corn),Production,2010,tonnes,12043300.0
+3311,Canada,Maize (corn),Production,2011,tonnes,11358700.0
+3312,Canada,Maize (corn),Production,2012,tonnes,13060100.0
+3313,Canada,Maize (corn),Production,2013,tonnes,14190700.0
+3314,Canada,Maize (corn),Production,2014,tonnes,11606400.0
+3315,Canada,Maize (corn),Production,2015,tonnes,13679500.0
+3316,Canada,Maize (corn),Production,2016,tonnes,13889000.0
+3317,Canada,Maize (corn),Production,2017,tonnes,14095500.0
+3318,Canada,Maize (corn),Production,2018,tonnes,13884800.0
+3319,Canada,Maize (corn),Production,2019,tonnes,13403900.0
+3320,Canada,Maize (corn),Production,2020,tonnes,13563400.0
+3321,Canada,Oats,Production,2000,tonnes,3403300.0
+3322,Canada,Oats,Production,2001,tonnes,2690700.0
+3323,Canada,Oats,Production,2002,tonnes,2910700.0
+3324,Canada,Oats,Production,2003,tonnes,3376700.0
+3325,Canada,Oats,Production,2004,tonnes,3467200.0
+3326,Canada,Oats,Production,2005,tonnes,3282700.0
+3327,Canada,Oats,Production,2006,tonnes,3852200.0
+3328,Canada,Oats,Production,2007,tonnes,4618400.0
+3329,Canada,Oats,Production,2008,tonnes,4272600.0
+3330,Canada,Oats,Production,2009,tonnes,2911500.0
+3331,Canada,Oats,Production,2010,tonnes,2451400.0
+3332,Canada,Oats,Production,2011,tonnes,3157600.0
+3333,Canada,Oats,Production,2012,tonnes,2829600.0
+3334,Canada,Oats,Production,2013,tonnes,3927600.0
+3335,Canada,Oats,Production,2014,tonnes,2976800.0
+3336,Canada,Oats,Production,2015,tonnes,3425000.0
+3337,Canada,Oats,Production,2016,tonnes,3231200.0
+3338,Canada,Oats,Production,2017,tonnes,3733000.0
+3339,Canada,Oats,Production,2018,tonnes,3436000.0
+3340,Canada,Oats,Production,2019,tonnes,4227300.0
+3341,Canada,Oats,Production,2020,tonnes,4575800.0
+3342,Canada,Rye,Production,2000,tonnes,260300.0
+3343,Canada,Rye,Production,2001,tonnes,227800.0
+3344,Canada,Rye,Production,2002,tonnes,133800.0
+3345,Canada,Rye,Production,2003,tonnes,327100.0
+3346,Canada,Rye,Production,2004,tonnes,397500.0
+3347,Canada,Rye,Production,2005,tonnes,330400.0
+3348,Canada,Rye,Production,2006,tonnes,382900.0
+3349,Canada,Rye,Production,2007,tonnes,252000.0
+3350,Canada,Rye,Production,2008,tonnes,297200.0
+3351,Canada,Rye,Production,2009,tonnes,280500.0
+3352,Canada,Rye,Production,2010,tonnes,237400.0
+3353,Canada,Rye,Production,2011,tonnes,241400.0
+3354,Canada,Rye,Production,2012,tonnes,336600.0
+3355,Canada,Rye,Production,2013,tonnes,222900.0
+3356,Canada,Rye,Production,2014,tonnes,217500.0
+3357,Canada,Rye,Production,2015,tonnes,225500.0
+3358,Canada,Rye,Production,2016,tonnes,436000.0
+3359,Canada,Rye,Production,2017,tonnes,341300.0
+3360,Canada,Rye,Production,2018,tonnes,236400.0
+3361,Canada,Rye,Production,2019,tonnes,333400.0
+3362,Canada,Rye,Production,2020,tonnes,487800.0
+3363,Canada,Soya beans,Production,2000,tonnes,2703000.0
+3364,Canada,Soya beans,Production,2001,tonnes,1635200.0
+3365,Canada,Soya beans,Production,2002,tonnes,2335700.0
+3366,Canada,Soya beans,Production,2003,tonnes,2273300.0
+3367,Canada,Soya beans,Production,2004,tonnes,3043900.0
+3368,Canada,Soya beans,Production,2005,tonnes,3155600.0
+3369,Canada,Soya beans,Production,2006,tonnes,3465500.0
+3370,Canada,Soya beans,Production,2007,tonnes,2686200.0
+3371,Canada,Soya beans,Production,2008,tonnes,3335900.0
+3372,Canada,Soya beans,Production,2009,tonnes,3581600.0
+3373,Canada,Soya beans,Production,2010,tonnes,4444600.0
+3374,Canada,Soya beans,Production,2011,tonnes,4466500.0
+3375,Canada,Soya beans,Production,2012,tonnes,5086400.0
+3376,Canada,Soya beans,Production,2013,tonnes,5355900.0
+3377,Canada,Soya beans,Production,2014,tonnes,6044800.0
+3378,Canada,Soya beans,Production,2015,tonnes,6456300.0
+3379,Canada,Soya beans,Production,2016,tonnes,6596500.0
+3380,Canada,Soya beans,Production,2017,tonnes,7716600.0
+3381,Canada,Soya beans,Production,2018,tonnes,7416600.0
+3382,Canada,Soya beans,Production,2019,tonnes,6145000.0
+3383,Canada,Soya beans,Production,2020,tonnes,6358500.0
+3384,Canada,Wheat,Production,2000,tonnes,26535500.0
+3385,Canada,Wheat,Production,2001,tonnes,20630200.0
+3386,Canada,Wheat,Production,2002,tonnes,15961300.0
+3387,Canada,Wheat,Production,2003,tonnes,23048600.0
+3388,Canada,Wheat,Production,2004,tonnes,24795500.0
+3389,Canada,Wheat,Production,2005,tonnes,25748100.0
+3390,Canada,Wheat,Production,2006,tonnes,25265400.0
+3391,Canada,Wheat,Production,2007,tonnes,20090400.0
+3392,Canada,Wheat,Production,2008,tonnes,28619200.0
+3393,Canada,Wheat,Production,2009,tonnes,26949900.0
+3394,Canada,Wheat,Production,2010,tonnes,23299600.0
+3395,Canada,Wheat,Production,2011,tonnes,25288000.0
+3396,Canada,Wheat,Production,2012,tonnes,27246000.0
+3397,Canada,Wheat,Production,2013,tonnes,37589100.0
+3398,Canada,Wheat,Production,2014,tonnes,29442100.0
+3399,Canada,Wheat,Production,2015,tonnes,27647400.0
+3400,Canada,Wheat,Production,2016,tonnes,32139900.0
+3401,Canada,Wheat,Production,2017,tonnes,30377235.0
+3402,Canada,Wheat,Production,2018,tonnes,32351900.0
+3403,Canada,Wheat,Production,2019,tonnes,32669800.0
+3404,Canada,Wheat,Production,2020,tonnes,35183000.0
+3636,China,Barley,Production,2000,tonnes,2646000.0
+3637,China,Barley,Production,2001,tonnes,2893000.0
+3638,China,Barley,Production,2002,tonnes,3322000.0
+3639,China,Barley,Production,2003,tonnes,3249500.0
+3640,China,Barley,Production,2004,tonnes,3221800.0
+3641,China,Barley,Production,2005,tonnes,3444100.0
+3642,China,Barley,Production,2006,tonnes,3129600.0
+3643,China,Barley,Production,2007,tonnes,2785100.0
+3644,China,Barley,Production,2008,tonnes,2823200.0
+3645,China,Barley,Production,2009,tonnes,2318300.0
+3646,China,Barley,Production,2010,tonnes,1972200.0
+3647,China,Barley,Production,2011,tonnes,1637100.0
+3648,China,Barley,Production,2012,tonnes,1625800.0
+3649,China,Barley,Production,2013,tonnes,1699000.0
+3650,China,Barley,Production,2014,tonnes,1812000.0
+3651,China,Barley,Production,2015,tonnes,1868000.0
+3652,China,Barley,Production,2016,tonnes,1324598.0
+3653,China,Barley,Production,2017,tonnes,1085200.0
+3654,China,Barley,Production,2018,tonnes,956500.0
+3655,China,Barley,Production,2019,tonnes,900000.0
+3656,China,Barley,Production,2020,tonnes,900000.0
+3657,China,Maize (corn),Production,2000,tonnes,106178315.0
+3658,China,Maize (corn),Production,2001,tonnes,114255995.0
+3659,China,Maize (corn),Production,2002,tonnes,120188915.0
+3660,China,Maize (corn),Production,2003,tonnes,115997909.0
+3661,China,Maize (corn),Production,2004,tonnes,130434297.0
+3662,China,Maize (corn),Production,2005,tonnes,139498473.0
+3663,China,Maize (corn),Production,2006,tonnes,151731441.0
+3664,China,Maize (corn),Production,2007,tonnes,152418870.0
+3665,China,Maize (corn),Production,2008,tonnes,166032097.0
+3666,China,Maize (corn),Production,2009,tonnes,164107560.0
+3667,China,Maize (corn),Production,2010,tonnes,177540788.0
+3668,China,Maize (corn),Production,2011,tonnes,192904232.0
+3669,China,Maize (corn),Production,2012,tonnes,205719284.0
+3670,China,Maize (corn),Production,2013,tonnes,218621905.0
+3671,China,Maize (corn),Production,2014,tonnes,215812100.0
+3672,China,Maize (corn),Production,2015,tonnes,265157307.0
+3673,China,Maize (corn),Production,2016,tonnes,263777750.0
+3674,China,Maize (corn),Production,2017,tonnes,259256299.0
+3675,China,Maize (corn),Production,2018,tonnes,257348659.0
+3676,China,Maize (corn),Production,2019,tonnes,260957662.0
+3677,China,Maize (corn),Production,2020,tonnes,260876476.0
+3678,China,Millet,Production,2000,tonnes,2125740.0
+3679,China,Millet,Production,2001,tonnes,1966779.0
+3680,China,Millet,Production,2002,tonnes,2176772.0
+3681,China,Millet,Production,2003,tonnes,1941933.0
+3682,China,Millet,Production,2004,tonnes,1812872.0
+3683,China,Millet,Production,2005,tonnes,1785797.0
+3684,China,Millet,Production,2006,tonnes,1820689.0
+3685,China,Millet,Production,2007,tonnes,1507608.0
+3686,China,Millet,Production,2008,tonnes,1286605.0
+3687,China,Millet,Production,2009,tonnes,1225579.0
+3688,China,Millet,Production,2010,tonnes,1573508.0
+3689,China,Millet,Production,2011,tonnes,1567776.0
+3690,China,Millet,Production,2012,tonnes,1796042.0
+3691,China,Millet,Production,2013,tonnes,1746527.0
+3692,China,Millet,Production,2014,tonnes,2344715.0
+3693,China,Millet,Production,2015,tonnes,1966479.0
+3694,China,Millet,Production,2016,tonnes,1394597.0
+3695,China,Millet,Production,2017,tonnes,2548400.0
+3696,China,Millet,Production,2018,tonnes,2342295.0
+3697,China,Millet,Production,2019,tonnes,2300501.0
+3698,China,Millet,Production,2020,tonnes,2300499.0
+3699,China,Oats,Production,2000,tonnes,1012000.0
+3700,China,Oats,Production,2001,tonnes,790000.0
+3701,China,Oats,Production,2002,tonnes,493000.0
+3702,China,Oats,Production,2003,tonnes,654000.0
+3703,China,Oats,Production,2004,tonnes,600000.0
+3704,China,Oats,Production,2005,tonnes,700000.0
+3705,China,Oats,Production,2006,tonnes,350000.0
+3706,China,Oats,Production,2007,tonnes,643000.0
+3707,China,Oats,Production,2008,tonnes,600000.0
+3708,China,Oats,Production,2009,tonnes,580000.0
+3709,China,Oats,Production,2010,tonnes,525000.0
+3710,China,Oats,Production,2011,tonnes,740000.0
+3711,China,Oats,Production,2012,tonnes,632500.0
+3712,China,Oats,Production,2013,tonnes,600000.0
+3713,China,Oats,Production,2014,tonnes,500000.0
+3714,China,Oats,Production,2015,tonnes,490864.0
+3715,China,Oats,Production,2016,tonnes,530288.0
+3716,China,Oats,Production,2017,tonnes,507051.0
+3717,China,Oats,Production,2018,tonnes,509401.0
+3718,China,Oats,Production,2019,tonnes,515580.0
+3719,China,Oats,Production,2020,tonnes,510677.0
+3720,China,Rice,Production,2000,tonnes,189814060.0
+3721,China,Rice,Production,2001,tonnes,179304887.0
+3722,China,Rice,Production,2002,tonnes,176342195.0
+3723,China,Rice,Production,2003,tonnes,162304280.0
+3724,China,Rice,Production,2004,tonnes,180522603.0
+3725,China,Rice,Production,2005,tonnes,182055138.0
+3726,China,Rice,Production,2006,tonnes,183276048.0
+3727,China,Rice,Production,2007,tonnes,187397460.0
+3728,China,Rice,Production,2008,tonnes,193352875.0
+3729,China,Rice,Production,2009,tonnes,196681177.0
+3730,China,Rice,Production,2010,tonnes,197212003.0
+3731,China,Rice,Production,2011,tonnes,202667169.0
+3732,China,Rice,Production,2012,tonnes,205936129.0
+3733,China,Rice,Production,2013,tonnes,205201696.0
+3734,China,Rice,Production,2014,tonnes,208239610.0
+3735,China,Rice,Production,2015,tonnes,213723732.0
+3736,China,Rice,Production,2016,tonnes,212681776.0
+3737,China,Rice,Production,2017,tonnes,214429949.0
+3738,China,Rice,Production,2018,tonnes,214078796.0
+3739,China,Rice,Production,2019,tonnes,211405211.0
+3740,China,Rice,Production,2020,tonnes,213610729.0
+3741,China,Rye,Production,2000,tonnes,975000.0
+3742,China,Rye,Production,2001,tonnes,670500.0
+3743,China,Rye,Production,2002,tonnes,545000.0
+3744,China,Rye,Production,2003,tonnes,709000.0
+3745,China,Rye,Production,2004,tonnes,600000.0
+3746,China,Rye,Production,2005,tonnes,554000.0
+3747,China,Rye,Production,2006,tonnes,350000.0
+3748,China,Rye,Production,2007,tonnes,700000.0
+3749,China,Rye,Production,2008,tonnes,645000.0
+3750,China,Rye,Production,2009,tonnes,630000.0
+3751,China,Rye,Production,2010,tonnes,570000.0
+3752,China,Rye,Production,2011,tonnes,750000.0
+3753,China,Rye,Production,2012,tonnes,650000.0
+3754,China,Rye,Production,2013,tonnes,620000.0
+3755,China,Rye,Production,2014,tonnes,520000.0
+3756,China,Rye,Production,2015,tonnes,496971.0
+3757,China,Rye,Production,2016,tonnes,545657.0
+3758,China,Rye,Production,2017,tonnes,520876.0
+3759,China,Rye,Production,2018,tonnes,521168.0
+3760,China,Rye,Production,2019,tonnes,529233.0
+3761,China,Rye,Production,2020,tonnes,523759.0
+3762,China,Sorghum,Production,2000,tonnes,2608456.0
+3763,China,Sorghum,Production,2001,tonnes,2717652.0
+3764,China,Sorghum,Production,2002,tonnes,3346918.0
+3765,China,Sorghum,Production,2003,tonnes,2879542.0
+3766,China,Sorghum,Production,2004,tonnes,2340826.0
+3767,China,Sorghum,Production,2005,tonnes,2554325.0
+3768,China,Sorghum,Production,2006,tonnes,2587732.0
+3769,China,Sorghum,Production,2007,tonnes,1928895.0
+3770,China,Sorghum,Production,2008,tonnes,1839532.0
+3771,China,Sorghum,Production,2009,tonnes,1677319.0
+3772,China,Sorghum,Production,2010,tonnes,2460411.0
+3773,China,Sorghum,Production,2011,tonnes,2054316.0
+3774,China,Sorghum,Production,2012,tonnes,2559064.0
+3775,China,Sorghum,Production,2013,tonnes,2894800.0
+3776,China,Sorghum,Production,2014,tonnes,2887203.0
+3777,China,Sorghum,Production,2015,tonnes,2754913.0
+3778,China,Sorghum,Production,2016,tonnes,1953025.0
+3779,China,Sorghum,Production,2017,tonnes,2466943.0
+3780,China,Sorghum,Production,2018,tonnes,2911729.0
+3781,China,Sorghum,Production,2019,tonnes,3602268.0
+3782,China,Sorghum,Production,2020,tonnes,3552017.0
+3783,China,Soya beans,Production,2000,tonnes,15409295.0
+3784,China,Soya beans,Production,2001,tonnes,15405928.0
+3785,China,Soya beans,Production,2002,tonnes,16505768.0
+3786,China,Soya beans,Production,2003,tonnes,15393541.0
+3787,China,Soya beans,Production,2004,tonnes,17401780.0
+3788,China,Soya beans,Production,2005,tonnes,16348013.0
+3789,China,Soya beans,Production,2006,tonnes,15081987.0
+3790,China,Soya beans,Production,2007,tonnes,12725147.0
+3791,China,Soya beans,Production,2008,tonnes,15541741.0
+3792,China,Soya beans,Production,2009,tonnes,14981721.0
+3793,China,Soya beans,Production,2010,tonnes,15083504.0
+3794,China,Soya beans,Production,2011,tonnes,14485405.0
+3795,China,Soya beans,Production,2012,tonnes,13011059.0
+3796,China,Soya beans,Production,2013,tonnes,11951879.0
+3797,China,Soya beans,Production,2014,tonnes,12155173.0
+3798,China,Soya beans,Production,2015,tonnes,11787725.0
+3799,China,Soya beans,Production,2016,tonnes,12791955.0
+3800,China,Soya beans,Production,2017,tonnes,15287174.0
+3801,China,Soya beans,Production,2018,tonnes,15971504.0
+3802,China,Soya beans,Production,2019,tonnes,18104776.0
+3803,China,Soya beans,Production,2020,tonnes,19604447.0
+3804,China,Wheat,Production,2000,tonnes,99636127.0
+3805,China,Wheat,Production,2001,tonnes,93873234.0
+3806,China,Wheat,Production,2002,tonnes,90290262.0
+3807,China,Wheat,Production,2003,tonnes,86488264.0
+3808,China,Wheat,Production,2004,tonnes,91952238.0
+3809,China,Wheat,Production,2005,tonnes,97445196.0
+3810,China,Wheat,Production,2006,tonnes,108466271.0
+3811,China,Wheat,Production,2007,tonnes,109298296.0
+3812,China,Wheat,Production,2008,tonnes,112464292.0
+3813,China,Wheat,Production,2009,tonnes,115115364.0
+3814,China,Wheat,Production,2010,tonnes,115186178.0
+3815,China,Wheat,Production,2011,tonnes,117414034.0
+3816,China,Wheat,Production,2012,tonnes,121030059.0
+3817,China,Wheat,Production,2013,tonnes,121930527.0
+3818,China,Wheat,Production,2014,tonnes,126215211.0
+3819,China,Wheat,Production,2015,tonnes,132646335.0
+3820,China,Wheat,Production,2016,tonnes,133274638.0
+3821,China,Wheat,Production,2017,tonnes,134246679.0
+3822,China,Wheat,Production,2018,tonnes,131446596.0
+3823,China,Wheat,Production,2019,tonnes,133601131.0
+3824,China,Wheat,Production,2020,tonnes,134254710.0
+6570,France,Barley,Production,2000,tonnes,9709332.0
+6571,France,Barley,Production,2001,tonnes,9797468.0
+6572,France,Barley,Production,2002,tonnes,10974840.0
+6573,France,Barley,Production,2003,tonnes,9848186.0
+6574,France,Barley,Production,2004,tonnes,11033331.0
+6575,France,Barley,Production,2005,tonnes,10313589.0
+6576,France,Barley,Production,2006,tonnes,10400576.0
+6577,France,Barley,Production,2007,tonnes,9473584.0
+6578,France,Barley,Production,2008,tonnes,12170629.0
+6579,France,Barley,Production,2009,tonnes,12879004.0
+6580,France,Barley,Production,2010,tonnes,10101597.0
+6581,France,Barley,Production,2011,tonnes,8775155.0
+6582,France,Barley,Production,2012,tonnes,11341189.0
+6583,France,Barley,Production,2013,tonnes,10315285.0
+6584,France,Barley,Production,2014,tonnes,11728556.0
+6585,France,Barley,Production,2015,tonnes,13098234.0
+6586,France,Barley,Production,2016,tonnes,10439229.0
+6587,France,Barley,Production,2017,tonnes,12086796.0
+6588,France,Barley,Production,2018,tonnes,11042820.0
+6589,France,Barley,Production,2019,tonnes,13565420.0
+6590,France,Barley,Production,2020,tonnes,10273570.0
+6591,France,Maize (corn),Production,2000,tonnes,16018168.0
+6592,France,Maize (corn),Production,2001,tonnes,16420735.0
+6593,France,Maize (corn),Production,2002,tonnes,16418383.0
+6594,France,Maize (corn),Production,2003,tonnes,12045464.0
+6595,France,Maize (corn),Production,2004,tonnes,16375868.0
+6596,France,Maize (corn),Production,2005,tonnes,13689322.0
+6597,France,Maize (corn),Production,2006,tonnes,12903719.0
+6598,France,Maize (corn),Production,2007,tonnes,14505519.0
+6599,France,Maize (corn),Production,2008,tonnes,16037988.0
+6600,France,Maize (corn),Production,2009,tonnes,15513841.0
+6601,France,Maize (corn),Production,2010,tonnes,13975285.0
+6602,France,Maize (corn),Production,2011,tonnes,15914121.0
+6603,France,Maize (corn),Production,2012,tonnes,15393497.0
+6604,France,Maize (corn),Production,2013,tonnes,15041226.0
+6605,France,Maize (corn),Production,2014,tonnes,18343320.0
+6606,France,Maize (corn),Production,2015,tonnes,13716048.0
+6607,France,Maize (corn),Production,2016,tonnes,11839729.0
+6608,France,Maize (corn),Production,2017,tonnes,14534897.0
+6609,France,Maize (corn),Production,2018,tonnes,12580430.0
+6610,France,Maize (corn),Production,2019,tonnes,12845020.0
+6611,France,Maize (corn),Production,2020,tonnes,13419140.0
+6612,France,Millet,Production,2000,tonnes,0.0
+6613,France,Millet,Production,2001,tonnes,9000.0
+6614,France,Millet,Production,2002,tonnes,16000.0
+6615,France,Millet,Production,2003,tonnes,26000.0
+6616,France,Millet,Production,2004,tonnes,20000.0
+6617,France,Millet,Production,2005,tonnes,24000.0
+6618,France,Millet,Production,2006,tonnes,38000.0
+6619,France,Millet,Production,2007,tonnes,44133.0
+6620,France,Millet,Production,2008,tonnes,36000.0
+6621,France,Millet,Production,2009,tonnes,37000.0
+6622,France,Millet,Production,2010,tonnes,37500.0
+6623,France,Millet,Production,2011,tonnes,38000.0
+6624,France,Millet,Production,2012,tonnes,40000.0
+6625,France,Millet,Production,2013,tonnes,40000.0
+6626,France,Millet,Production,2014,tonnes,37000.0
+6627,France,Millet,Production,2015,tonnes,40000.0
+6628,France,Millet,Production,2016,tonnes,41807.0
+6629,France,Millet,Production,2017,tonnes,40604.0
+6630,France,Oats,Production,2000,tonnes,456089.0
+6631,France,Oats,Production,2001,tonnes,482443.0
+6632,France,Oats,Production,2002,tonnes,751706.0
+6633,France,Oats,Production,2003,tonnes,553522.0
+6634,France,Oats,Production,2004,tonnes,595616.0
+6635,France,Oats,Production,2005,tonnes,497260.0
+6636,France,Oats,Production,2006,tonnes,464555.0
+6637,France,Oats,Production,2007,tonnes,409110.0
+6638,France,Oats,Production,2008,tonnes,471798.0
+6639,France,Oats,Production,2009,tonnes,572976.0
+6640,France,Oats,Production,2010,tonnes,448233.0
+6641,France,Oats,Production,2011,tonnes,318542.0
+6642,France,Oats,Production,2012,tonnes,400802.0
+6643,France,Oats,Production,2013,tonnes,429388.0
+6644,France,Oats,Production,2014,tonnes,442983.0
+6645,France,Oats,Production,2015,tonnes,400103.0
+6646,France,Oats,Production,2016,tonnes,345883.0
+6647,France,Oats,Production,2017,tonnes,537340.0
+6648,France,Oats,Production,2018,tonnes,423250.0
+6649,France,Oats,Production,2019,tonnes,402420.0
+6650,France,Oats,Production,2020,tonnes,385620.0
+6651,France,Rice,Production,2000,tonnes,115958.0
+6652,France,Rice,Production,2001,tonnes,102810.0
+6653,France,Rice,Production,2002,tonnes,105227.0
+6654,France,Rice,Production,2003,tonnes,106723.0
+6655,France,Rice,Production,2004,tonnes,115110.0
+6656,France,Rice,Production,2005,tonnes,102306.0
+6657,France,Rice,Production,2006,tonnes,94782.0
+6658,France,Rice,Production,2007,tonnes,97316.0
+6659,France,Rice,Production,2008,tonnes,111523.0
+6660,France,Rice,Production,2009,tonnes,137132.0
+6661,France,Rice,Production,2010,tonnes,120170.0
+6662,France,Rice,Production,2011,tonnes,130400.0
+6663,France,Rice,Production,2012,tonnes,124091.0
+6664,France,Rice,Production,2013,tonnes,80801.0
+6665,France,Rice,Production,2014,tonnes,83492.0
+6666,France,Rice,Production,2015,tonnes,80858.0
+6667,France,Rice,Production,2016,tonnes,80297.0
+6668,France,Rice,Production,2017,tonnes,92544.0
+6669,France,Rice,Production,2018,tonnes,71430.0
+6670,France,Rice,Production,2019,tonnes,82570.0
+6671,France,Rice,Production,2020,tonnes,76320.0
+6672,France,Rye,Production,2000,tonnes,145671.0
+6673,France,Rye,Production,2001,tonnes,115961.0
+6674,France,Rye,Production,2002,tonnes,138245.0
+6675,France,Rye,Production,2003,tonnes,112338.0
+6676,France,Rye,Production,2004,tonnes,170359.0
+6677,France,Rye,Production,2005,tonnes,146808.0
+6678,France,Rye,Production,2006,tonnes,121464.0
+6679,France,Rye,Production,2007,tonnes,119823.0
+6680,France,Rye,Production,2008,tonnes,123458.0
+6681,France,Rye,Production,2009,tonnes,129784.0
+6682,France,Rye,Production,2010,tonnes,151038.0
+6683,France,Rye,Production,2011,tonnes,124422.0
+6684,France,Rye,Production,2012,tonnes,160301.0
+6685,France,Rye,Production,2013,tonnes,143076.0
+6686,France,Rye,Production,2014,tonnes,128197.0
+6687,France,Rye,Production,2015,tonnes,123587.0
+6688,France,Rye,Production,2016,tonnes,97001.0
+6689,France,Rye,Production,2017,tonnes,109715.0
+6690,France,Rye,Production,2018,tonnes,108540.0
+6691,France,Rye,Production,2019,tonnes,135360.0
+6692,France,Rye,Production,2020,tonnes,131780.0
+6693,France,Sorghum,Production,2000,tonnes,371009.0
+6694,France,Sorghum,Production,2001,tonnes,397584.0
+6695,France,Sorghum,Production,2002,tonnes,458949.0
+6696,France,Sorghum,Production,2003,tonnes,230721.0
+6697,France,Sorghum,Production,2004,tonnes,256594.0
+6698,France,Sorghum,Production,2005,tonnes,263479.0
+6699,France,Sorghum,Production,2006,tonnes,305521.0
+6700,France,Sorghum,Production,2007,tonnes,288431.0
+6701,France,Sorghum,Production,2008,tonnes,230964.0
+6702,France,Sorghum,Production,2009,tonnes,312537.0
+6703,France,Sorghum,Production,2010,tonnes,285862.0
+6704,France,Sorghum,Production,2011,tonnes,280740.0
+6705,France,Sorghum,Production,2012,tonnes,239906.0
+6706,France,Sorghum,Production,2013,tonnes,278536.0
+6707,France,Sorghum,Production,2014,tonnes,397715.0
+6708,France,Sorghum,Production,2015,tonnes,278463.0
+6709,France,Sorghum,Production,2016,tonnes,263184.0
+6710,France,Sorghum,Production,2017,tonnes,325792.0
+6711,France,Sorghum,Production,2018,tonnes,316640.0
+6712,France,Sorghum,Production,2019,tonnes,422900.0
+6713,France,Sorghum,Production,2020,tonnes,527070.0
+6714,France,Soya beans,Production,2000,tonnes,201033.0
+6715,France,Soya beans,Production,2001,tonnes,309694.0
+6716,France,Soya beans,Production,2002,tonnes,208533.0
+6717,France,Soya beans,Production,2003,tonnes,147368.0
+6718,France,Soya beans,Production,2004,tonnes,147095.0
+6719,France,Soya beans,Production,2005,tonnes,142528.0
+6720,France,Soya beans,Production,2006,tonnes,122995.0
+6721,France,Soya beans,Production,2007,tonnes,84603.0
+6722,France,Soya beans,Production,2008,tonnes,63106.0
+6723,France,Soya beans,Production,2009,tonnes,109842.0
+6724,France,Soya beans,Production,2010,tonnes,140059.0
+6725,France,Soya beans,Production,2011,tonnes,122521.0
+6726,France,Soya beans,Production,2012,tonnes,103935.0
+6727,France,Soya beans,Production,2013,tonnes,110072.0
+6728,France,Soya beans,Production,2014,tonnes,227262.0
+6729,France,Soya beans,Production,2015,tonnes,336830.0
+6730,France,Soya beans,Production,2016,tonnes,338955.0
+6731,France,Soya beans,Production,2017,tonnes,415202.0
+6732,France,Soya beans,Production,2018,tonnes,398480.0
+6733,France,Soya beans,Production,2019,tonnes,428530.0
+6734,France,Soya beans,Production,2020,tonnes,406670.0
+6735,France,Wheat,Production,2000,tonnes,37355957.0
+6736,France,Wheat,Production,2001,tonnes,31545319.0
+6737,France,Wheat,Production,2002,tonnes,38936515.0
+6738,France,Wheat,Production,2003,tonnes,30479362.0
+6739,France,Wheat,Production,2004,tonnes,39690180.0
+6740,France,Wheat,Production,2005,tonnes,36886103.0
+6741,France,Wheat,Production,2006,tonnes,35363563.0
+6742,France,Wheat,Production,2007,tonnes,32763446.0
+6743,France,Wheat,Production,2008,tonnes,39006372.0
+6744,France,Wheat,Production,2009,tonnes,38336865.0
+6745,France,Wheat,Production,2010,tonnes,38207431.0
+6746,France,Wheat,Production,2011,tonnes,35992794.0
+6747,France,Wheat,Production,2012,tonnes,37885742.0
+6748,France,Wheat,Production,2013,tonnes,38651472.0
+6749,France,Wheat,Production,2014,tonnes,38950202.0
+6750,France,Wheat,Production,2015,tonnes,42750027.0
+6751,France,Wheat,Production,2016,tonnes,29316331.0
+6752,France,Wheat,Production,2017,tonnes,38677896.0
+6753,France,Wheat,Production,2018,tonnes,35424140.0
+6754,France,Wheat,Production,2019,tonnes,40604960.0
+6755,France,Wheat,Production,2020,tonnes,30144110.0
+8193,India,Barley,Production,2000,tonnes,1447000.0
+8194,India,Barley,Production,2001,tonnes,1430600.0
+8195,India,Barley,Production,2002,tonnes,1424500.0
+8196,India,Barley,Production,2003,tonnes,1407400.0
+8197,India,Barley,Production,2004,tonnes,1297600.0
+8198,India,Barley,Production,2005,tonnes,1207100.0
+8199,India,Barley,Production,2006,tonnes,1220600.0
+8200,India,Barley,Production,2007,tonnes,1330000.0
+8201,India,Barley,Production,2008,tonnes,1200000.0
+8202,India,Barley,Production,2009,tonnes,1689100.0
+8203,India,Barley,Production,2010,tonnes,1354700.0
+8204,India,Barley,Production,2011,tonnes,1662900.0
+8205,India,Barley,Production,2012,tonnes,1620000.0
+8206,India,Barley,Production,2013,tonnes,1750000.0
+8207,India,Barley,Production,2014,tonnes,1830000.0
+8208,India,Barley,Production,2015,tonnes,1613000.0
+8209,India,Barley,Production,2016,tonnes,1440000.0
+8210,India,Barley,Production,2017,tonnes,1747450.0
+8211,India,Barley,Production,2018,tonnes,1780810.0
+8212,India,Barley,Production,2019,tonnes,1633070.0
+8213,India,Barley,Production,2020,tonnes,1720000.0
+8214,India,Maize (corn),Production,2000,tonnes,12043200.0
+8215,India,Maize (corn),Production,2001,tonnes,13160200.0
+8216,India,Maize (corn),Production,2002,tonnes,11151700.0
+8217,India,Maize (corn),Production,2003,tonnes,14984300.0
+8218,India,Maize (corn),Production,2004,tonnes,14172000.0
+8219,India,Maize (corn),Production,2005,tonnes,14709900.0
+8220,India,Maize (corn),Production,2006,tonnes,15097000.0
+8221,India,Maize (corn),Production,2007,tonnes,18955400.0
+8222,India,Maize (corn),Production,2008,tonnes,19731400.0
+8223,India,Maize (corn),Production,2009,tonnes,16719500.0
+8224,India,Maize (corn),Production,2010,tonnes,21725800.0
+8225,India,Maize (corn),Production,2011,tonnes,21760000.0
+8226,India,Maize (corn),Production,2012,tonnes,22260000.0
+8227,India,Maize (corn),Production,2013,tonnes,24259510.0
+8228,India,Maize (corn),Production,2014,tonnes,24170000.0
+8229,India,Maize (corn),Production,2015,tonnes,22570000.0
+8230,India,Maize (corn),Production,2016,tonnes,25900000.0
+8231,India,Maize (corn),Production,2017,tonnes,25899870.0
+8232,India,Maize (corn),Production,2018,tonnes,28752880.0
+8233,India,Maize (corn),Production,2019,tonnes,27715100.0
+8234,India,Maize (corn),Production,2020,tonnes,30160000.0
+8235,India,Millet,Production,2000,tonnes,10077800.0
+8236,India,Millet,Production,2001,tonnes,11235300.0
+8237,India,Millet,Production,2002,tonnes,6493900.0
+8238,India,Millet,Production,2003,tonnes,14638800.0
+8239,India,Millet,Production,2004,tonnes,10841300.0
+8240,India,Millet,Production,2005,tonnes,10509200.0
+8241,India,Millet,Production,2006,tonnes,10346900.0
+8242,India,Millet,Production,2007,tonnes,12673000.0
+8243,India,Millet,Production,2008,tonnes,11371800.0
+8244,India,Millet,Production,2009,tonnes,8776800.0
+8245,India,Millet,Production,2010,tonnes,13293000.0
+8246,India,Millet,Production,2011,tonnes,12660000.0
+8247,India,Millet,Production,2012,tonnes,10750000.0
+8248,India,Millet,Production,2013,tonnes,10910000.0
+8249,India,Millet,Production,2014,tonnes,11420000.0
+8250,India,Millet,Production,2015,tonnes,11630000.0
+8251,India,Millet,Production,2016,tonnes,10280000.0
+8252,India,Millet,Production,2017,tonnes,11556890.0
+8253,India,Millet,Production,2018,tonnes,11633080.0
+8254,India,Millet,Production,2019,tonnes,10235830.0
+8255,India,Millet,Production,2020,tonnes,12490000.0
+8256,India,Rice,Production,2000,tonnes,127464896.0
+8257,India,Rice,Production,2001,tonnes,139900000.0
+8258,India,Rice,Production,2002,tonnes,107730304.0
+8259,India,Rice,Production,2003,tonnes,132789000.0
+8260,India,Rice,Production,2004,tonnes,124697104.0
+8261,India,Rice,Production,2005,tonnes,137690096.0
+8262,India,Rice,Production,2006,tonnes,139136992.0
+8263,India,Rice,Production,2007,tonnes,144570000.0
+8264,India,Rice,Production,2008,tonnes,148036000.0
+8265,India,Rice,Production,2009,tonnes,135672992.0
+8266,India,Rice,Production,2010,tonnes,143963008.0
+8267,India,Rice,Production,2011,tonnes,157900000.0
+8268,India,Rice,Production,2012,tonnes,157800000.0
+8269,India,Rice,Production,2013,tonnes,159200000.0
+8270,India,Rice,Production,2014,tonnes,157200000.0
+8271,India,Rice,Production,2015,tonnes,156540000.0
+8272,India,Rice,Production,2016,tonnes,163700000.0
+8273,India,Rice,Production,2017,tonnes,168500000.0
+8274,India,Rice,Production,2018,tonnes,174716730.0
+8275,India,Rice,Production,2019,tonnes,177645000.0
+8276,India,Rice,Production,2020,tonnes,178305000.0
+8277,India,Sorghum,Production,2000,tonnes,7529400.0
+8278,India,Sorghum,Production,2001,tonnes,7556800.0
+8279,India,Sorghum,Production,2002,tonnes,7070000.0
+8280,India,Sorghum,Production,2003,tonnes,7012400.0
+8281,India,Sorghum,Production,2004,tonnes,6681300.0
+8282,India,Sorghum,Production,2005,tonnes,7244300.0
+8283,India,Sorghum,Production,2006,tonnes,7629600.0
+8284,India,Sorghum,Production,2007,tonnes,7150800.0
+8285,India,Sorghum,Production,2008,tonnes,7925900.0
+8286,India,Sorghum,Production,2009,tonnes,7245600.0
+8287,India,Sorghum,Production,2010,tonnes,6698200.0
+8288,India,Sorghum,Production,2011,tonnes,7003100.0
+8289,India,Sorghum,Production,2012,tonnes,5980000.0
+8290,India,Sorghum,Production,2013,tonnes,5280000.0
+8291,India,Sorghum,Production,2014,tonnes,5540000.0
+8292,India,Sorghum,Production,2015,tonnes,5450000.0
+8293,India,Sorghum,Production,2016,tonnes,4240000.0
+8294,India,Sorghum,Production,2017,tonnes,4567900.0
+8295,India,Sorghum,Production,2018,tonnes,4803380.0
+8296,India,Sorghum,Production,2019,tonnes,3475410.0
+8297,India,Sorghum,Production,2020,tonnes,4770000.0
+8298,India,Soya beans,Production,2000,tonnes,5275800.0
+8299,India,Soya beans,Production,2001,tonnes,5962700.0
+8300,India,Soya beans,Production,2002,tonnes,4654700.0
+8301,India,Soya beans,Production,2003,tonnes,7818900.0
+8302,India,Soya beans,Production,2004,tonnes,6876300.0
+8303,India,Soya beans,Production,2005,tonnes,8273500.0
+8304,India,Soya beans,Production,2006,tonnes,8857000.0
+8305,India,Soya beans,Production,2007,tonnes,10968000.0
+8306,India,Soya beans,Production,2008,tonnes,9905400.0
+8307,India,Soya beans,Production,2009,tonnes,9964500.0
+8308,India,Soya beans,Production,2010,tonnes,12736000.0
+8309,India,Soya beans,Production,2011,tonnes,12214000.0
+8310,India,Soya beans,Production,2012,tonnes,14666000.0
+8311,India,Soya beans,Production,2013,tonnes,11861000.0
+8312,India,Soya beans,Production,2014,tonnes,10374000.0
+8313,India,Soya beans,Production,2015,tonnes,8570000.0
+8314,India,Soya beans,Production,2016,tonnes,13159000.0
+8315,India,Soya beans,Production,2017,tonnes,13158730.0
+8316,India,Soya beans,Production,2018,tonnes,10932970.0
+8317,India,Soya beans,Production,2019,tonnes,13267520.0
+8318,India,Soya beans,Production,2020,tonnes,11226000.0
+8319,India,Wheat,Production,2000,tonnes,76368896.0
+8320,India,Wheat,Production,2001,tonnes,69680896.0
+8321,India,Wheat,Production,2002,tonnes,72766304.0
+8322,India,Wheat,Production,2003,tonnes,65760800.0
+8323,India,Wheat,Production,2004,tonnes,72156200.0
+8324,India,Wheat,Production,2005,tonnes,68636896.0
+8325,India,Wheat,Production,2006,tonnes,69354496.0
+8326,India,Wheat,Production,2007,tonnes,75806704.0
+8327,India,Wheat,Production,2008,tonnes,78570200.0
+8328,India,Wheat,Production,2009,tonnes,80679400.0
+8329,India,Wheat,Production,2010,tonnes,80803600.0
+8330,India,Wheat,Production,2011,tonnes,86874000.0
+8331,India,Wheat,Production,2012,tonnes,94880000.0
+8332,India,Wheat,Production,2013,tonnes,93510000.0
+8333,India,Wheat,Production,2014,tonnes,95850000.0
+8334,India,Wheat,Production,2015,tonnes,86530000.0
+8335,India,Wheat,Production,2016,tonnes,92290000.0
+8336,India,Wheat,Production,2017,tonnes,98510220.0
+8337,India,Wheat,Production,2018,tonnes,99869520.0
+8338,India,Wheat,Production,2019,tonnes,103596230.0
+8339,India,Wheat,Production,2020,tonnes,107590000.0
+8340,Indonesia,Maize (corn),Production,2000,tonnes,9677000.0
+8341,Indonesia,Maize (corn),Production,2001,tonnes,9347200.0
+8342,Indonesia,Maize (corn),Production,2002,tonnes,9585277.0
+8343,Indonesia,Maize (corn),Production,2003,tonnes,10886442.0
+8344,Indonesia,Maize (corn),Production,2004,tonnes,11225243.0
+8345,Indonesia,Maize (corn),Production,2005,tonnes,12523894.0
+8346,Indonesia,Maize (corn),Production,2006,tonnes,11609463.0
+8347,Indonesia,Maize (corn),Production,2007,tonnes,13287527.0
+8348,Indonesia,Maize (corn),Production,2008,tonnes,16323922.0
+8349,Indonesia,Maize (corn),Production,2009,tonnes,17629740.0
+8350,Indonesia,Maize (corn),Production,2010,tonnes,18327636.0
+8351,Indonesia,Maize (corn),Production,2011,tonnes,17643250.0
+8352,Indonesia,Maize (corn),Production,2012,tonnes,19387022.0
+8353,Indonesia,Maize (corn),Production,2013,tonnes,18511853.0
+8354,Indonesia,Maize (corn),Production,2014,tonnes,19008426.0
+8355,Indonesia,Maize (corn),Production,2015,tonnes,19612435.0
+8356,Indonesia,Maize (corn),Production,2016,tonnes,23578413.0
+8357,Indonesia,Maize (corn),Production,2017,tonnes,28924015.0
+8358,Indonesia,Maize (corn),Production,2018,tonnes,30253938.0
+8359,Indonesia,Maize (corn),Production,2019,tonnes,22586000.0
+8360,Indonesia,Maize (corn),Production,2020,tonnes,22500000.0
+8361,Indonesia,Rice,Production,2000,tonnes,51898000.0
+8362,Indonesia,Rice,Production,2001,tonnes,50460800.0
+8363,Indonesia,Rice,Production,2002,tonnes,51489696.0
+8364,Indonesia,Rice,Production,2003,tonnes,52137600.0
+8365,Indonesia,Rice,Production,2004,tonnes,54088468.0
+8366,Indonesia,Rice,Production,2005,tonnes,54151096.0
+8367,Indonesia,Rice,Production,2006,tonnes,54454936.0
+8368,Indonesia,Rice,Production,2007,tonnes,54591000.0
+8369,Indonesia,Rice,Production,2008,tonnes,57661000.0
+8370,Indonesia,Rice,Production,2009,tonnes,59014000.0
+8371,Indonesia,Rice,Production,2010,tonnes,59283000.0
+8372,Indonesia,Rice,Production,2011,tonnes,58259000.0
+8373,Indonesia,Rice,Production,2012,tonnes,59705000.0
+8374,Indonesia,Rice,Production,2013,tonnes,60095000.0
+8375,Indonesia,Rice,Production,2014,tonnes,59059000.0
+8376,Indonesia,Rice,Production,2015,tonnes,61031000.0
+8377,Indonesia,Rice,Production,2016,tonnes,54031000.0
+8378,Indonesia,Rice,Production,2017,tonnes,55252000.0
+8379,Indonesia,Rice,Production,2018,tonnes,59200534.0
+8380,Indonesia,Rice,Production,2019,tonnes,54604033.0
+8381,Indonesia,Rice,Production,2020,tonnes,54649202.0
+8382,Indonesia,Soya beans,Production,2000,tonnes,1017634.0
+8383,Indonesia,Soya beans,Production,2001,tonnes,826932.0
+8384,Indonesia,Soya beans,Production,2002,tonnes,673056.0
+8385,Indonesia,Soya beans,Production,2003,tonnes,671600.0
+8386,Indonesia,Soya beans,Production,2004,tonnes,723483.0
+8387,Indonesia,Soya beans,Production,2005,tonnes,808353.0
+8388,Indonesia,Soya beans,Production,2006,tonnes,747611.0
+8389,Indonesia,Soya beans,Production,2007,tonnes,592634.0
+8390,Indonesia,Soya beans,Production,2008,tonnes,776491.0
+8391,Indonesia,Soya beans,Production,2009,tonnes,974512.0
+8392,Indonesia,Soya beans,Production,2010,tonnes,907031.0
+8393,Indonesia,Soya beans,Production,2011,tonnes,851286.0
+8394,Indonesia,Soya beans,Production,2012,tonnes,843153.0
+8395,Indonesia,Soya beans,Production,2013,tonnes,779992.0
+8396,Indonesia,Soya beans,Production,2014,tonnes,954997.0
+8397,Indonesia,Soya beans,Production,2015,tonnes,963183.0
+8398,Indonesia,Soya beans,Production,2016,tonnes,859653.0
+8399,Indonesia,Soya beans,Production,2017,tonnes,538729.0
+8400,Indonesia,Soya beans,Production,2018,tonnes,953571.0
+8401,Indonesia,Soya beans,Production,2019,tonnes,980000.0
+8402,Indonesia,Soya beans,Production,2020,tonnes,1040000.0
+14915,Russian Federation,Barley,Production,2000,tonnes,14038791.0
+14916,Russian Federation,Barley,Production,2001,tonnes,19477550.0
+14917,Russian Federation,Barley,Production,2002,tonnes,18678410.0
+14918,Russian Federation,Barley,Production,2003,tonnes,17926418.0
+14919,Russian Federation,Barley,Production,2004,tonnes,17087555.0
+14920,Russian Federation,Barley,Production,2005,tonnes,15683785.0
+14921,Russian Federation,Barley,Production,2006,tonnes,18036511.0
+14922,Russian Federation,Barley,Production,2007,tonnes,15559075.0
+14923,Russian Federation,Barley,Production,2008,tonnes,23148450.0
+14924,Russian Federation,Barley,Production,2009,tonnes,17880760.0
+14925,Russian Federation,Barley,Production,2010,tonnes,8350023.0
+14926,Russian Federation,Barley,Production,2011,tonnes,16938002.0
+14927,Russian Federation,Barley,Production,2012,tonnes,13951676.0
+14928,Russian Federation,Barley,Production,2013,tonnes,15388704.0
+14929,Russian Federation,Barley,Production,2014,tonnes,20444258.0
+14930,Russian Federation,Barley,Production,2015,tonnes,17546155.0
+14931,Russian Federation,Barley,Production,2016,tonnes,17967161.0
+14932,Russian Federation,Barley,Production,2017,tonnes,20628955.0
+14933,Russian Federation,Barley,Production,2018,tonnes,16991907.0
+14934,Russian Federation,Barley,Production,2019,tonnes,20489088.0
+14935,Russian Federation,Barley,Production,2020,tonnes,20938993.0
+14936,Russian Federation,Maize (corn),Production,2000,tonnes,1489399.0
+14937,Russian Federation,Maize (corn),Production,2001,tonnes,808360.0
+14938,Russian Federation,Maize (corn),Production,2002,tonnes,1499425.0
+14939,Russian Federation,Maize (corn),Production,2003,tonnes,2030896.0
+14940,Russian Federation,Maize (corn),Production,2004,tonnes,3372956.0
+14941,Russian Federation,Maize (corn),Production,2005,tonnes,3060164.0
+14942,Russian Federation,Maize (corn),Production,2006,tonnes,3510351.0
+14943,Russian Federation,Maize (corn),Production,2007,tonnes,3798020.0
+14944,Russian Federation,Maize (corn),Production,2008,tonnes,6682300.0
+14945,Russian Federation,Maize (corn),Production,2009,tonnes,3963433.0
+14946,Russian Federation,Maize (corn),Production,2010,tonnes,3084351.0
+14947,Russian Federation,Maize (corn),Production,2011,tonnes,6962438.0
+14948,Russian Federation,Maize (corn),Production,2012,tonnes,8212924.0
+14949,Russian Federation,Maize (corn),Production,2013,tonnes,11634943.0
+14950,Russian Federation,Maize (corn),Production,2014,tonnes,11332138.0
+14951,Russian Federation,Maize (corn),Production,2015,tonnes,13173296.0
+14952,Russian Federation,Maize (corn),Production,2016,tonnes,15281594.0
+14953,Russian Federation,Maize (corn),Production,2017,tonnes,13208095.0
+14954,Russian Federation,Maize (corn),Production,2018,tonnes,11419020.0
+14955,Russian Federation,Maize (corn),Production,2019,tonnes,14282352.0
+14956,Russian Federation,Maize (corn),Production,2020,tonnes,13879210.0
+14957,Russian Federation,Millet,Production,2000,tonnes,1124260.0
+14958,Russian Federation,Millet,Production,2001,tonnes,550278.0
+14959,Russian Federation,Millet,Production,2002,tonnes,293387.0
+14960,Russian Federation,Millet,Production,2003,tonnes,974283.0
+14961,Russian Federation,Millet,Production,2004,tonnes,1113488.0
+14962,Russian Federation,Millet,Production,2005,tonnes,455144.0
+14963,Russian Federation,Millet,Production,2006,tonnes,598835.0
+14964,Russian Federation,Millet,Production,2007,tonnes,417371.0
+14965,Russian Federation,Millet,Production,2008,tonnes,711010.0
+14966,Russian Federation,Millet,Production,2009,tonnes,264705.0
+14967,Russian Federation,Millet,Production,2010,tonnes,133607.0
+14968,Russian Federation,Millet,Production,2011,tonnes,878341.0
+14969,Russian Federation,Millet,Production,2012,tonnes,333574.0
+14970,Russian Federation,Millet,Production,2013,tonnes,418844.0
+14971,Russian Federation,Millet,Production,2014,tonnes,492829.0
+14972,Russian Federation,Millet,Production,2015,tonnes,572170.0
+14973,Russian Federation,Millet,Production,2016,tonnes,629078.0
+14974,Russian Federation,Millet,Production,2017,tonnes,316137.0
+14975,Russian Federation,Millet,Production,2018,tonnes,217200.0
+14976,Russian Federation,Millet,Production,2019,tonnes,439771.0
+14977,Russian Federation,Millet,Production,2020,tonnes,396458.0
+14978,Russian Federation,Oats,Production,2000,tonnes,6002269.0
+14979,Russian Federation,Oats,Production,2001,tonnes,7718715.0
+14980,Russian Federation,Oats,Production,2002,tonnes,5682843.0
+14981,Russian Federation,Oats,Production,2003,tonnes,5169044.0
+14982,Russian Federation,Oats,Production,2004,tonnes,4936709.0
+14983,Russian Federation,Oats,Production,2005,tonnes,4545081.0
+14984,Russian Federation,Oats,Production,2006,tonnes,4860293.0
+14985,Russian Federation,Oats,Production,2007,tonnes,5383539.0
+14986,Russian Federation,Oats,Production,2008,tonnes,5834910.0
+14987,Russian Federation,Oats,Production,2009,tonnes,5401200.0
+14988,Russian Federation,Oats,Production,2010,tonnes,3219582.0
+14989,Russian Federation,Oats,Production,2011,tonnes,5332134.0
+14990,Russian Federation,Oats,Production,2012,tonnes,4027274.0
+14991,Russian Federation,Oats,Production,2013,tonnes,4931822.0
+14992,Russian Federation,Oats,Production,2014,tonnes,5273812.0
+14993,Russian Federation,Oats,Production,2015,tonnes,4535641.0
+14994,Russian Federation,Oats,Production,2016,tonnes,4765889.0
+14995,Russian Federation,Oats,Production,2017,tonnes,5456237.0
+14996,Russian Federation,Oats,Production,2018,tonnes,4719324.0
+14997,Russian Federation,Oats,Production,2019,tonnes,4424433.0
+14998,Russian Federation,Oats,Production,2020,tonnes,4132096.0
+14999,Russian Federation,Rice,Production,2000,tonnes,584312.0
+15000,Russian Federation,Rice,Production,2001,tonnes,495536.0
+15001,Russian Federation,Rice,Production,2002,tonnes,488133.0
+15002,Russian Federation,Rice,Production,2003,tonnes,448116.0
+15003,Russian Federation,Rice,Production,2004,tonnes,469802.0
+15004,Russian Federation,Rice,Production,2005,tonnes,570816.0
+15005,Russian Federation,Rice,Production,2006,tonnes,680610.0
+15006,Russian Federation,Rice,Production,2007,tonnes,704544.0
+15007,Russian Federation,Rice,Production,2008,tonnes,738300.0
+15008,Russian Federation,Rice,Production,2009,tonnes,912969.0
+15009,Russian Federation,Rice,Production,2010,tonnes,1060658.0
+15010,Russian Federation,Rice,Production,2011,tonnes,1055574.0
+15011,Russian Federation,Rice,Production,2012,tonnes,1051891.0
+15012,Russian Federation,Rice,Production,2013,tonnes,934943.0
+15013,Russian Federation,Rice,Production,2014,tonnes,1048566.0
+15014,Russian Federation,Rice,Production,2015,tonnes,1109762.0
+15015,Russian Federation,Rice,Production,2016,tonnes,1080886.0
+15016,Russian Federation,Rice,Production,2017,tonnes,986620.0
+15017,Russian Federation,Rice,Production,2018,tonnes,1038222.0
+15018,Russian Federation,Rice,Production,2019,tonnes,1098660.0
+15019,Russian Federation,Rice,Production,2020,tonnes,1141819.0
+15020,Russian Federation,Rye,Production,2000,tonnes,5444421.0
+15021,Russian Federation,Rye,Production,2001,tonnes,6631528.0
+15022,Russian Federation,Rye,Production,2002,tonnes,7121713.0
+15023,Russian Federation,Rye,Production,2003,tonnes,4146815.0
+15024,Russian Federation,Rye,Production,2004,tonnes,2864180.0
+15025,Russian Federation,Rye,Production,2005,tonnes,3622434.0
+15026,Russian Federation,Rye,Production,2006,tonnes,2959347.0
+15027,Russian Federation,Rye,Production,2007,tonnes,3909392.0
+15028,Russian Federation,Rye,Production,2008,tonnes,4505060.0
+15029,Russian Federation,Rye,Production,2009,tonnes,4333138.0
+15030,Russian Federation,Rye,Production,2010,tonnes,1635631.0
+15031,Russian Federation,Rye,Production,2011,tonnes,2970747.0
+15032,Russian Federation,Rye,Production,2012,tonnes,2131519.0
+15033,Russian Federation,Rye,Production,2013,tonnes,3359873.0
+15034,Russian Federation,Rye,Production,2014,tonnes,3280759.0
+15035,Russian Federation,Rye,Production,2015,tonnes,2086675.0
+15036,Russian Federation,Rye,Production,2016,tonnes,2547878.0
+15037,Russian Federation,Rye,Production,2017,tonnes,2548719.0
+15038,Russian Federation,Rye,Production,2018,tonnes,1916056.0
+15039,Russian Federation,Rye,Production,2019,tonnes,1428421.0
+15040,Russian Federation,Rye,Production,2020,tonnes,2377629.0
+15041,Russian Federation,Sorghum,Production,2000,tonnes,82744.0
+15042,Russian Federation,Sorghum,Production,2001,tonnes,35241.0
+15043,Russian Federation,Sorghum,Production,2002,tonnes,27273.0
+15044,Russian Federation,Sorghum,Production,2003,tonnes,33442.0
+15045,Russian Federation,Sorghum,Production,2004,tonnes,43923.0
+15046,Russian Federation,Sorghum,Production,2005,tonnes,28222.0
+15047,Russian Federation,Sorghum,Production,2006,tonnes,35479.0
+15048,Russian Federation,Sorghum,Production,2007,tonnes,40166.0
+15049,Russian Federation,Sorghum,Production,2008,tonnes,75610.0
+15050,Russian Federation,Sorghum,Production,2009,tonnes,13482.0
+15051,Russian Federation,Sorghum,Production,2010,tonnes,9167.0
+15052,Russian Federation,Sorghum,Production,2011,tonnes,59978.0
+15053,Russian Federation,Sorghum,Production,2012,tonnes,45235.0
+15054,Russian Federation,Sorghum,Production,2013,tonnes,172044.0
+15055,Russian Federation,Sorghum,Production,2014,tonnes,219793.0
+15056,Russian Federation,Sorghum,Production,2015,tonnes,193794.0
+15057,Russian Federation,Sorghum,Production,2016,tonnes,312067.0
+15058,Russian Federation,Sorghum,Production,2017,tonnes,103550.0
+15059,Russian Federation,Sorghum,Production,2018,tonnes,49128.0
+15060,Russian Federation,Sorghum,Production,2019,tonnes,98702.0
+15061,Russian Federation,Sorghum,Production,2020,tonnes,53047.0
+15062,Russian Federation,Soya beans,Production,2000,tonnes,341754.0
+15063,Russian Federation,Soya beans,Production,2001,tonnes,349635.0
+15064,Russian Federation,Soya beans,Production,2002,tonnes,422530.0
+15065,Russian Federation,Soya beans,Production,2003,tonnes,392477.0
+15066,Russian Federation,Soya beans,Production,2004,tonnes,554236.0
+15067,Russian Federation,Soya beans,Production,2005,tonnes,686099.0
+15068,Russian Federation,Soya beans,Production,2006,tonnes,804536.0
+15069,Russian Federation,Soya beans,Production,2007,tonnes,650180.0
+15070,Russian Federation,Soya beans,Production,2008,tonnes,745990.0
+15071,Russian Federation,Soya beans,Production,2009,tonnes,943660.0
+15072,Russian Federation,Soya beans,Production,2010,tonnes,1222371.0
+15073,Russian Federation,Soya beans,Production,2011,tonnes,1640966.0
+15074,Russian Federation,Soya beans,Production,2012,tonnes,1683123.0
+15075,Russian Federation,Soya beans,Production,2013,tonnes,1517152.0
+15076,Russian Federation,Soya beans,Production,2014,tonnes,2363562.0
+15077,Russian Federation,Soya beans,Production,2015,tonnes,2708170.0
+15078,Russian Federation,Soya beans,Production,2016,tonnes,3142693.0
+15079,Russian Federation,Soya beans,Production,2017,tonnes,3621712.0
+15080,Russian Federation,Soya beans,Production,2018,tonnes,4026850.0
+15081,Russian Federation,Soya beans,Production,2019,tonnes,4359956.0
+15082,Russian Federation,Soya beans,Production,2020,tonnes,4307593.0
+15083,Russian Federation,Wheat,Production,2000,tonnes,34460052.0
+15084,Russian Federation,Wheat,Production,2001,tonnes,46996294.0
+15085,Russian Federation,Wheat,Production,2002,tonnes,50622106.0
+15086,Russian Federation,Wheat,Production,2003,tonnes,34069788.0
+15087,Russian Federation,Wheat,Production,2004,tonnes,45433661.0
+15088,Russian Federation,Wheat,Production,2005,tonnes,47614681.0
+15089,Russian Federation,Wheat,Production,2006,tonnes,44926880.0
+15090,Russian Federation,Wheat,Production,2007,tonnes,49367973.0
+15091,Russian Federation,Wheat,Production,2008,tonnes,63765140.0
+15092,Russian Federation,Wheat,Production,2009,tonnes,61739751.0
+15093,Russian Federation,Wheat,Production,2010,tonnes,41507581.0
+15094,Russian Federation,Wheat,Production,2011,tonnes,56239994.0
+15095,Russian Federation,Wheat,Production,2012,tonnes,37719640.0
+15096,Russian Federation,Wheat,Production,2013,tonnes,52090797.0
+15097,Russian Federation,Wheat,Production,2014,tonnes,59711382.0
+15098,Russian Federation,Wheat,Production,2015,tonnes,61785799.0
+15099,Russian Federation,Wheat,Production,2016,tonnes,73345679.0
+15100,Russian Federation,Wheat,Production,2017,tonnes,86002542.0
+15101,Russian Federation,Wheat,Production,2018,tonnes,72136149.0
+15102,Russian Federation,Wheat,Production,2019,tonnes,74452692.0
+15103,Russian Federation,Wheat,Production,2020,tonnes,85896326.0
+18021,Ukraine,Barley,Production,2000,tonnes,6871900.0
+18022,Ukraine,Barley,Production,2001,tonnes,10185700.0
+18023,Ukraine,Barley,Production,2002,tonnes,10363800.0
+18024,Ukraine,Barley,Production,2003,tonnes,6833200.0
+18025,Ukraine,Barley,Production,2004,tonnes,11084400.0
+18026,Ukraine,Barley,Production,2005,tonnes,8975100.0
+18027,Ukraine,Barley,Production,2006,tonnes,11341200.0
+18028,Ukraine,Barley,Production,2007,tonnes,5980800.0
+18029,Ukraine,Barley,Production,2008,tonnes,12611500.0
+18030,Ukraine,Barley,Production,2009,tonnes,11833100.0
+18031,Ukraine,Barley,Production,2010,tonnes,8484900.0
+18032,Ukraine,Barley,Production,2011,tonnes,9097700.0
+18033,Ukraine,Barley,Production,2012,tonnes,6936400.0
+18034,Ukraine,Barley,Production,2013,tonnes,7561640.0
+18035,Ukraine,Barley,Production,2014,tonnes,9046060.0
+18036,Ukraine,Barley,Production,2015,tonnes,8288380.0
+18037,Ukraine,Barley,Production,2016,tonnes,9435710.0
+18038,Ukraine,Barley,Production,2017,tonnes,8284890.0
+18039,Ukraine,Barley,Production,2018,tonnes,7349140.0
+18040,Ukraine,Barley,Production,2019,tonnes,8916780.0
+18041,Ukraine,Barley,Production,2020,tonnes,7636340.0
+18042,Ukraine,Maize (corn),Production,2000,tonnes,3848100.0
+18043,Ukraine,Maize (corn),Production,2001,tonnes,3640700.0
+18044,Ukraine,Maize (corn),Production,2002,tonnes,4180300.0
+18045,Ukraine,Maize (corn),Production,2003,tonnes,6875100.0
+18046,Ukraine,Maize (corn),Production,2004,tonnes,8866800.0
+18047,Ukraine,Maize (corn),Production,2005,tonnes,7166600.0
+18048,Ukraine,Maize (corn),Production,2006,tonnes,6425600.0
+18049,Ukraine,Maize (corn),Production,2007,tonnes,7421100.0
+18050,Ukraine,Maize (corn),Production,2008,tonnes,11446800.0
+18051,Ukraine,Maize (corn),Production,2009,tonnes,10486300.0
+18052,Ukraine,Maize (corn),Production,2010,tonnes,11953000.0
+18053,Ukraine,Maize (corn),Production,2011,tonnes,22837900.0
+18054,Ukraine,Maize (corn),Production,2012,tonnes,20961300.0
+18055,Ukraine,Maize (corn),Production,2013,tonnes,30949550.0
+18056,Ukraine,Maize (corn),Production,2014,tonnes,28496810.0
+18057,Ukraine,Maize (corn),Production,2015,tonnes,23327570.0
+18058,Ukraine,Maize (corn),Production,2016,tonnes,28074610.0
+18059,Ukraine,Maize (corn),Production,2017,tonnes,24668750.0
+18060,Ukraine,Maize (corn),Production,2018,tonnes,35801050.0
+18061,Ukraine,Maize (corn),Production,2019,tonnes,35880050.0
+18062,Ukraine,Maize (corn),Production,2020,tonnes,30290340.0
+18063,Ukraine,Millet,Production,2000,tonnes,426100.0
+18064,Ukraine,Millet,Production,2001,tonnes,266500.0
+18065,Ukraine,Millet,Production,2002,tonnes,111500.0
+18066,Ukraine,Millet,Production,2003,tonnes,340900.0
+18067,Ukraine,Millet,Production,2004,tonnes,458800.0
+18068,Ukraine,Millet,Production,2005,tonnes,140600.0
+18069,Ukraine,Millet,Production,2006,tonnes,123500.0
+18070,Ukraine,Millet,Production,2007,tonnes,84300.0
+18071,Ukraine,Millet,Production,2008,tonnes,220700.0
+18072,Ukraine,Millet,Production,2009,tonnes,139300.0
+18073,Ukraine,Millet,Production,2010,tonnes,117100.0
+18074,Ukraine,Millet,Production,2011,tonnes,278800.0
+18075,Ukraine,Millet,Production,2012,tonnes,157400.0
+18076,Ukraine,Millet,Production,2013,tonnes,101990.0
+18077,Ukraine,Millet,Production,2014,tonnes,177990.0
+18078,Ukraine,Millet,Production,2015,tonnes,213260.0
+18079,Ukraine,Millet,Production,2016,tonnes,189670.0
+18080,Ukraine,Millet,Production,2017,tonnes,84440.0
+18081,Ukraine,Millet,Production,2018,tonnes,80460.0
+18082,Ukraine,Millet,Production,2019,tonnes,169730.0
+18083,Ukraine,Millet,Production,2020,tonnes,256050.0
+18084,Ukraine,Oats,Production,2000,tonnes,881400.0
+18085,Ukraine,Oats,Production,2001,tonnes,1115700.0
+18086,Ukraine,Oats,Production,2002,tonnes,924900.0
+18087,Ukraine,Oats,Production,2003,tonnes,940700.0
+18088,Ukraine,Oats,Production,2004,tonnes,1007000.0
+18089,Ukraine,Oats,Production,2005,tonnes,790700.0
+18090,Ukraine,Oats,Production,2006,tonnes,690200.0
+18091,Ukraine,Oats,Production,2007,tonnes,544400.0
+18092,Ukraine,Oats,Production,2008,tonnes,944400.0
+18093,Ukraine,Oats,Production,2009,tonnes,730700.0
+18094,Ukraine,Oats,Production,2010,tonnes,458500.0
+18095,Ukraine,Oats,Production,2011,tonnes,505600.0
+18096,Ukraine,Oats,Production,2012,tonnes,629700.0
+18097,Ukraine,Oats,Production,2013,tonnes,467270.0
+18098,Ukraine,Oats,Production,2014,tonnes,612460.0
+18099,Ukraine,Oats,Production,2015,tonnes,488510.0
+18100,Ukraine,Oats,Production,2016,tonnes,499890.0
+18101,Ukraine,Oats,Production,2017,tonnes,471410.0
+18102,Ukraine,Oats,Production,2018,tonnes,418460.0
+18103,Ukraine,Oats,Production,2019,tonnes,422000.0
+18104,Ukraine,Oats,Production,2020,tonnes,510000.0
+18105,Ukraine,Rice,Production,2000,tonnes,89700.0
+18106,Ukraine,Rice,Production,2001,tonnes,68900.0
+18107,Ukraine,Rice,Production,2002,tonnes,75400.0
+18108,Ukraine,Rice,Production,2003,tonnes,84000.0
+18109,Ukraine,Rice,Production,2004,tonnes,80400.0
+18110,Ukraine,Rice,Production,2005,tonnes,93000.0
+18111,Ukraine,Rice,Production,2006,tonnes,99500.0
+18112,Ukraine,Rice,Production,2007,tonnes,108000.0
+18113,Ukraine,Rice,Production,2008,tonnes,100700.0
+18114,Ukraine,Rice,Production,2009,tonnes,142900.0
+18115,Ukraine,Rice,Production,2010,tonnes,148000.0
+18116,Ukraine,Rice,Production,2011,tonnes,169900.0
+18117,Ukraine,Rice,Production,2012,tonnes,159800.0
+18118,Ukraine,Rice,Production,2013,tonnes,145050.0
+18119,Ukraine,Rice,Production,2014,tonnes,50880.0
+18120,Ukraine,Rice,Production,2015,tonnes,62510.0
+18121,Ukraine,Rice,Production,2016,tonnes,64700.0
+18122,Ukraine,Rice,Production,2017,tonnes,63940.0
+18123,Ukraine,Rice,Production,2018,tonnes,69210.0
+18124,Ukraine,Rice,Production,2019,tonnes,54570.0
+18125,Ukraine,Rice,Production,2020,tonnes,60680.0
+18126,Ukraine,Rye,Production,2000,tonnes,968300.0
+18127,Ukraine,Rye,Production,2001,tonnes,1822500.0
+18128,Ukraine,Rye,Production,2002,tonnes,1511200.0
+18129,Ukraine,Rye,Production,2003,tonnes,624000.0
+18130,Ukraine,Rye,Production,2004,tonnes,1592500.0
+18131,Ukraine,Rye,Production,2005,tonnes,1054200.0
+18132,Ukraine,Rye,Production,2006,tonnes,583600.0
+18133,Ukraine,Rye,Production,2007,tonnes,562500.0
+18134,Ukraine,Rye,Production,2008,tonnes,1050800.0
+18135,Ukraine,Rye,Production,2009,tonnes,953500.0
+18136,Ukraine,Rye,Production,2010,tonnes,464900.0
+18137,Ukraine,Rye,Production,2011,tonnes,578900.0
+18138,Ukraine,Rye,Production,2012,tonnes,676800.0
+18139,Ukraine,Rye,Production,2013,tonnes,637730.0
+18140,Ukraine,Rye,Production,2014,tonnes,478000.0
+18141,Ukraine,Rye,Production,2015,tonnes,391070.0
+18142,Ukraine,Rye,Production,2016,tonnes,391560.0
+18143,Ukraine,Rye,Production,2017,tonnes,507850.0
+18144,Ukraine,Rye,Production,2018,tonnes,393780.0
+18145,Ukraine,Rye,Production,2019,tonnes,334680.0
+18146,Ukraine,Rye,Production,2020,tonnes,456780.0
+18147,Ukraine,Sorghum,Production,2000,tonnes,16500.0
+18148,Ukraine,Sorghum,Production,2001,tonnes,20700.0
+18149,Ukraine,Sorghum,Production,2002,tonnes,7700.0
+18150,Ukraine,Sorghum,Production,2003,tonnes,24000.0
+18151,Ukraine,Sorghum,Production,2004,tonnes,65000.0
+18152,Ukraine,Sorghum,Production,2005,tonnes,53900.0
+18153,Ukraine,Sorghum,Production,2006,tonnes,63940.0
+18154,Ukraine,Sorghum,Production,2007,tonnes,78200.0
+18155,Ukraine,Sorghum,Production,2008,tonnes,231800.0
+18156,Ukraine,Sorghum,Production,2009,tonnes,41700.0
+18157,Ukraine,Sorghum,Production,2010,tonnes,61400.0
+18158,Ukraine,Sorghum,Production,2011,tonnes,175900.0
+18159,Ukraine,Sorghum,Production,2012,tonnes,208500.0
+18160,Ukraine,Sorghum,Production,2013,tonnes,354400.0
+18161,Ukraine,Sorghum,Production,2014,tonnes,224210.0
+18162,Ukraine,Sorghum,Production,2015,tonnes,188280.0
+18163,Ukraine,Sorghum,Production,2016,tonnes,273710.0
+18164,Ukraine,Sorghum,Production,2017,tonnes,198500.0
+18165,Ukraine,Sorghum,Production,2018,tonnes,193980.0
+18166,Ukraine,Sorghum,Production,2019,tonnes,192030.0
+18167,Ukraine,Sorghum,Production,2020,tonnes,106560.0
+18168,Ukraine,Soya beans,Production,2000,tonnes,64400.0
+18169,Ukraine,Soya beans,Production,2001,tonnes,73900.0
+18170,Ukraine,Soya beans,Production,2002,tonnes,124700.0
+18171,Ukraine,Soya beans,Production,2003,tonnes,231800.0
+18172,Ukraine,Soya beans,Production,2004,tonnes,363310.0
+18173,Ukraine,Soya beans,Production,2005,tonnes,612600.0
+18174,Ukraine,Soya beans,Production,2006,tonnes,889600.0
+18175,Ukraine,Soya beans,Production,2007,tonnes,722600.0
+18176,Ukraine,Soya beans,Production,2008,tonnes,812800.0
+18177,Ukraine,Soya beans,Production,2009,tonnes,1043500.0
+18178,Ukraine,Soya beans,Production,2010,tonnes,1680200.0
+18179,Ukraine,Soya beans,Production,2011,tonnes,2264400.0
+18180,Ukraine,Soya beans,Production,2012,tonnes,2410200.0
+18181,Ukraine,Soya beans,Production,2013,tonnes,2774300.0
+18182,Ukraine,Soya beans,Production,2014,tonnes,3881930.0
+18183,Ukraine,Soya beans,Production,2015,tonnes,3930600.0
+18184,Ukraine,Soya beans,Production,2016,tonnes,4276990.0
+18185,Ukraine,Soya beans,Production,2017,tonnes,3899370.0
+18186,Ukraine,Soya beans,Production,2018,tonnes,4460770.0
+18187,Ukraine,Soya beans,Production,2019,tonnes,3698710.0
+18188,Ukraine,Soya beans,Production,2020,tonnes,2797670.0
+18189,Ukraine,Wheat,Production,2000,tonnes,10197000.0
+18190,Ukraine,Wheat,Production,2001,tonnes,21348000.0
+18191,Ukraine,Wheat,Production,2002,tonnes,20556000.0
+18192,Ukraine,Wheat,Production,2003,tonnes,11430884.0
+18193,Ukraine,Wheat,Production,2004,tonnes,17520200.0
+18194,Ukraine,Wheat,Production,2005,tonnes,18699200.0
+18195,Ukraine,Wheat,Production,2006,tonnes,13947300.0
+18196,Ukraine,Wheat,Production,2007,tonnes,13937700.0
+18197,Ukraine,Wheat,Production,2008,tonnes,25885400.0
+18198,Ukraine,Wheat,Production,2009,tonnes,20886400.0
+18199,Ukraine,Wheat,Production,2010,tonnes,16851300.0
+18200,Ukraine,Wheat,Production,2011,tonnes,22323600.0
+18201,Ukraine,Wheat,Production,2012,tonnes,15762600.0
+18202,Ukraine,Wheat,Production,2013,tonnes,22279300.0
+18203,Ukraine,Wheat,Production,2014,tonnes,24113970.0
+18204,Ukraine,Wheat,Production,2015,tonnes,26532100.0
+18205,Ukraine,Wheat,Production,2016,tonnes,26098830.0
+18206,Ukraine,Wheat,Production,2017,tonnes,26208980.0
+18207,Ukraine,Wheat,Production,2018,tonnes,24652840.0
+18208,Ukraine,Wheat,Production,2019,tonnes,28370280.0
+18209,Ukraine,Wheat,Production,2020,tonnes,24912350.0
+18475,United States of America,Barley,Production,2000,tonnes,6919370.0
+18476,United States of America,Barley,Production,2001,tonnes,5406730.0
+18477,United States of America,Barley,Production,2002,tonnes,4940300.0
+18478,United States of America,Barley,Production,2003,tonnes,6058900.0
+18479,United States of America,Barley,Production,2004,tonnes,6090680.0
+18480,United States of America,Barley,Production,2005,tonnes,4613490.0
+18481,United States of America,Barley,Production,2006,tonnes,3922630.0
+18482,United States of America,Barley,Production,2007,tonnes,4574610.0
+18483,United States of America,Barley,Production,2008,tonnes,5205180.0
+18484,United States of America,Barley,Production,2009,tonnes,4933700.0
+18485,United States of America,Barley,Production,2010,tonnes,3924280.0
+18486,United States of America,Barley,Production,2011,tonnes,3370110.0
+18487,United States of America,Barley,Production,2012,tonnes,4767940.0
+18488,United States of America,Barley,Production,2013,tonnes,4719070.0
+18489,United States of America,Barley,Production,2014,tonnes,3952610.0
+18490,United States of America,Barley,Production,2015,tonnes,4665770.0
+18491,United States of America,Barley,Production,2016,tonnes,4352610.0
+18492,United States of America,Barley,Production,2017,tonnes,3119070.0
+18493,United States of America,Barley,Production,2018,tonnes,3342660.0
+18494,United States of America,Barley,Production,2019,tonnes,3755720.0
+18495,United States of America,Barley,Production,2020,tonnes,3599510.0
+18496,United States of America,Maize (corn),Production,2000,tonnes,251853900.0
+18497,United States of America,Maize (corn),Production,2001,tonnes,241376650.0
+18498,United States of America,Maize (corn),Production,2002,tonnes,227766880.0
+18499,United States of America,Maize (corn),Production,2003,tonnes,256229020.0
+18500,United States of America,Maize (corn),Production,2004,tonnes,299875570.0
+18501,United States of America,Maize (corn),Production,2005,tonnes,282262550.0
+18502,United States of America,Maize (corn),Production,2006,tonnes,267502850.0
+18503,United States of America,Maize (corn),Production,2007,tonnes,331177280.0
+18504,United States of America,Maize (corn),Production,2008,tonnes,305911450.0
+18505,United States of America,Maize (corn),Production,2009,tonnes,331921050.0
+18506,United States of America,Maize (corn),Production,2010,tonnes,315617920.0
+18507,United States of America,Maize (corn),Production,2011,tonnes,312788890.0
+18508,United States of America,Maize (corn),Production,2012,tonnes,273192400.0
+18509,United States of America,Maize (corn),Production,2013,tonnes,351271870.0
+18510,United States of America,Maize (corn),Production,2014,tonnes,361091140.0
+18511,United States of America,Maize (corn),Production,2015,tonnes,345486340.0
+18512,United States of America,Maize (corn),Production,2016,tonnes,412262180.0
+18513,United States of America,Maize (corn),Production,2017,tonnes,371096030.0
+18514,United States of America,Maize (corn),Production,2018,tonnes,364262150.0
+18515,United States of America,Maize (corn),Production,2019,tonnes,345962110.0
+18516,United States of America,Maize (corn),Production,2020,tonnes,360251560.0
+18517,United States of America,Millet,Production,2000,tonnes,166010.0
+18518,United States of America,Millet,Production,2001,tonnes,440100.0
+18519,United States of America,Millet,Production,2002,tonnes,83190.0
+18520,United States of America,Millet,Production,2003,tonnes,259680.0
+18521,United States of America,Millet,Production,2004,tonnes,341670.0
+18522,United States of America,Millet,Production,2005,tonnes,310030.0
+18523,United States of America,Millet,Production,2006,tonnes,231220.0
+18524,United States of America,Millet,Production,2007,tonnes,383290.0
+18525,United States of America,Millet,Production,2008,tonnes,337470.0
+18526,United States of America,Millet,Production,2009,tonnes,201280.0
+18527,United States of America,Millet,Production,2010,tonnes,261610.0
+18528,United States of America,Millet,Production,2011,tonnes,207500.0
+18529,United States of America,Millet,Production,2012,tonnes,69740.0
+18530,United States of America,Millet,Production,2013,tonnes,418120.0
+18531,United States of America,Millet,Production,2014,tonnes,305790.0
+18532,United States of America,Millet,Production,2015,tonnes,321120.0
+18533,United States of America,Millet,Production,2016,tonnes,341770.0
+18534,United States of America,Millet,Production,2017,tonnes,337680.0
+18535,United States of America,Millet,Production,2018,tonnes,262970.0
+18536,United States of America,Millet,Production,2019,tonnes,376660.0
+18537,United States of America,Millet,Production,2020,tonnes,208880.0
+18538,United States of America,Oats,Production,2000,tonnes,2165120.0
+18539,United States of America,Oats,Production,2001,tonnes,1706990.0
+18540,United States of America,Oats,Production,2002,tonnes,1683760.0
+18541,United States of America,Oats,Production,2003,tonnes,2095710.0
+18542,United States of America,Oats,Production,2004,tonnes,1679310.0
+18543,United States of America,Oats,Production,2005,tonnes,1667170.0
+18544,United States of America,Oats,Production,2006,tonnes,1357470.0
+18545,United States of America,Oats,Production,2007,tonnes,1312590.0
+18546,United States of America,Oats,Production,2008,tonnes,1307090.0
+18547,United States of America,Oats,Production,2009,tonnes,1321490.0
+18548,United States of America,Oats,Production,2010,tonnes,1188140.0
+18549,United States of America,Oats,Production,2011,tonnes,727580.0
+18550,United States of America,Oats,Production,2012,tonnes,892470.0
+18551,United States of America,Oats,Production,2013,tonnes,938280.0
+18552,United States of America,Oats,Production,2014,tonnes,1019410.0
+18553,United States of America,Oats,Production,2015,tonnes,1299600.0
+18554,United States of America,Oats,Production,2016,tonnes,938070.0
+18555,United States of America,Oats,Production,2017,tonnes,719720.0
+18556,United States of America,Oats,Production,2018,tonnes,814720.0
+18557,United States of America,Oats,Production,2019,tonnes,773040.0
+18558,United States of America,Oats,Production,2020,tonnes,948630.0
+18559,United States of America,Rice,Production,2000,tonnes,8657810.0
+18560,United States of America,Rice,Production,2001,tonnes,9764480.0
+18561,United States of America,Rice,Production,2002,tonnes,9568990.0
+18562,United States of America,Rice,Production,2003,tonnes,9067180.0
+18563,United States of America,Rice,Production,2004,tonnes,10539760.0
+18564,United States of America,Rice,Production,2005,tonnes,10107540.0
+18565,United States of America,Rice,Production,2006,tonnes,8826230.0
+18566,United States of America,Rice,Production,2007,tonnes,8998730.0
+18567,United States of America,Rice,Production,2008,tonnes,9241170.0
+18568,United States of America,Rice,Production,2009,tonnes,9972230.0
+18569,United States of America,Rice,Production,2010,tonnes,11027010.0
+18570,United States of America,Rice,Production,2011,tonnes,8388780.0
+18571,United States of America,Rice,Production,2012,tonnes,9069080.0
+18572,United States of America,Rice,Production,2013,tonnes,8616120.0
+18573,United States of America,Rice,Production,2014,tonnes,10079500.0
+18574,United States of America,Rice,Production,2015,tonnes,8724530.0
+18575,United States of America,Rice,Production,2016,tonnes,10167050.0
+18576,United States of America,Rice,Production,2017,tonnes,8084290.0
+18577,United States of America,Rice,Production,2018,tonnes,10152890.0
+18578,United States of America,Rice,Production,2019,tonnes,8396180.0
+18579,United States of America,Rice,Production,2020,tonnes,10322990.0
+18580,United States of America,Rye,Production,2000,tonnes,213010.0
+18581,United States of America,Rye,Production,2001,tonnes,175170.0
+18582,United States of America,Rye,Production,2002,tonnes,164800.0
+18583,United States of America,Rye,Production,2003,tonnes,219310.0
+18584,United States of America,Rye,Production,2004,tonnes,209690.0
+18585,United States of America,Rye,Production,2005,tonnes,191450.0
+18586,United States of America,Rye,Production,2006,tonnes,182710.0
+18587,United States of America,Rye,Production,2007,tonnes,160310.0
+18588,United States of America,Rye,Production,2008,tonnes,211210.0
+18589,United States of America,Rye,Production,2009,tonnes,172500.0
+18590,United States of America,Rye,Production,2010,tonnes,190000.0
+18591,United States of America,Rye,Production,2011,tonnes,153700.0
+18592,United States of America,Rye,Production,2012,tonnes,166170.0
+18593,United States of America,Rye,Production,2013,tonnes,193710.0
+18594,United States of America,Rye,Production,2014,tonnes,182610.0
+18595,United States of America,Rye,Production,2015,tonnes,292010.0
+18596,United States of America,Rye,Production,2016,tonnes,290379.0
+18597,United States of America,Rye,Production,2017,tonnes,260410.0
+18598,United States of America,Rye,Production,2018,tonnes,214180.0
+18599,United States of America,Rye,Production,2019,tonnes,269810.0
+18600,United States of America,Rye,Production,2020,tonnes,292930.0
+18601,United States of America,Sorghum,Production,2000,tonnes,11951910.0
+18602,United States of America,Sorghum,Production,2001,tonnes,13057220.0
+18603,United States of America,Sorghum,Production,2002,tonnes,9162530.0
+18604,United States of America,Sorghum,Production,2003,tonnes,10445440.0
+18605,United States of America,Sorghum,Production,2004,tonnes,11522120.0
+18606,United States of America,Sorghum,Production,2005,tonnes,9976030.0
+18607,United States of America,Sorghum,Production,2006,tonnes,7031650.0
+18608,United States of America,Sorghum,Production,2007,tonnes,12635690.0
+18609,United States of America,Sorghum,Production,2008,tonnes,12087270.0
+18610,United States of America,Sorghum,Production,2009,tonnes,9693210.0
+18611,United States of America,Sorghum,Production,2010,tonnes,8775190.0
+18612,United States of America,Sorghum,Production,2011,tonnes,5410270.0
+18613,United States of America,Sorghum,Production,2012,tonnes,6292940.0
+18614,United States of America,Sorghum,Production,2013,tonnes,9965670.0
+18615,United States of America,Sorghum,Production,2014,tonnes,10987910.0
+18616,United States of America,Sorghum,Production,2015,tonnes,15158170.0
+18617,United States of America,Sorghum,Production,2016,tonnes,12199190.0
+18618,United States of America,Sorghum,Production,2017,tonnes,9191950.0
+18619,United States of America,Sorghum,Production,2018,tonnes,9271070.0
+18620,United States of America,Sorghum,Production,2019,tonnes,8673480.0
+18621,United States of America,Sorghum,Production,2020,tonnes,9473620.0
+18622,United States of America,Soya beans,Production,2000,tonnes,75055290.0
+18623,United States of America,Soya beans,Production,2001,tonnes,78671470.0
+18624,United States of America,Soya beans,Production,2002,tonnes,75010030.0
+18625,United States of America,Soya beans,Production,2003,tonnes,66782720.0
+18626,United States of America,Soya beans,Production,2004,tonnes,85015630.0
+18627,United States of America,Soya beans,Production,2005,tonnes,83506580.0
+18628,United States of America,Soya beans,Production,2006,tonnes,87000620.0
+18629,United States of America,Soya beans,Production,2007,tonnes,72859180.0
+18630,United States of America,Soya beans,Production,2008,tonnes,80748700.0
+18631,United States of America,Soya beans,Production,2009,tonnes,91469550.0
+18632,United States of America,Soya beans,Production,2010,tonnes,90663290.0
+18633,United States of America,Soya beans,Production,2011,tonnes,84291400.0
+18634,United States of America,Soya beans,Production,2012,tonnes,82790870.0
+18635,United States of America,Soya beans,Production,2013,tonnes,91389350.0
+18636,United States of America,Soya beans,Production,2014,tonnes,106877870.0
+18637,United States of America,Soya beans,Production,2015,tonnes,106953940.0
+18638,United States of America,Soya beans,Production,2016,tonnes,116931500.0
+18639,United States of America,Soya beans,Production,2017,tonnes,120064970.0
+18640,United States of America,Soya beans,Production,2018,tonnes,120514490.0
+18641,United States of America,Soya beans,Production,2019,tonnes,96667090.0
+18642,United States of America,Soya beans,Production,2020,tonnes,112549240.0
+18643,United States of America,Wheat,Production,2000,tonnes,60639376.0
+18644,United States of America,Wheat,Production,2001,tonnes,52999932.0
+18645,United States of America,Wheat,Production,2002,tonnes,43703968.0
+18646,United States of America,Wheat,Production,2003,tonnes,63803256.0
+18647,United States of America,Wheat,Production,2004,tonnes,58697040.0
+18648,United States of America,Wheat,Production,2005,tonnes,57241992.0
+18649,United States of America,Wheat,Production,2006,tonnes,49216040.0
+18650,United States of America,Wheat,Production,2007,tonnes,55820360.0
+18651,United States of America,Wheat,Production,2008,tonnes,68016096.0
+18652,United States of America,Wheat,Production,2009,tonnes,60365728.0
+18653,United States of America,Wheat,Production,2010,tonnes,60062408.0
+18654,United States of America,Wheat,Production,2011,tonnes,54418808.0
+18655,United States of America,Wheat,Production,2012,tonnes,61677384.0
+18656,United States of America,Wheat,Production,2013,tonnes,58104610.0
+18657,United States of America,Wheat,Production,2014,tonnes,55147120.0
+18658,United States of America,Wheat,Production,2015,tonnes,55839540.0
+18659,United States of America,Wheat,Production,2016,tonnes,62831507.0
+18660,United States of America,Wheat,Production,2017,tonnes,47379810.0
+18661,United States of America,Wheat,Production,2018,tonnes,51305540.0
+18662,United States of America,Wheat,Production,2019,tonnes,52580890.0
+18663,United States of America,Wheat,Production,2020,tonnes,49690680.0

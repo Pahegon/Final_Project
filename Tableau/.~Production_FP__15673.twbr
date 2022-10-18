@@ -1,11 +1,9 @@
 <?xml version='1.0' encoding='utf-8' ?>
 
-<!-- build 20222.22.0812.0353                               -->
-<workbook original-version='18.1' source-build='2022.2.1 (20222.22.0812.0353)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+<!-- build 20222.22.0916.1526                               -->
+<workbook original-version='18.1' source-build='2022.2.2 (20222.22.0916.1526)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
   <document-format-change-manifest>
     <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
-    <IntuitiveSorting />
-    <IntuitiveSorting_SP2 />
     <_.fcp.MarkAnimation.true...MarkAnimation />
     <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
     <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
@@ -51,7 +49,7 @@
               <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
               <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[production_clean_9EF4351504A441DEBF215A0F7D3B71E6]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[production_clean_B19061B30D254D4896DC54BF1F73CF5B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Item</remote-name>
@@ -70,7 +68,7 @@
               <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
               <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[production_clean_9EF4351504A441DEBF215A0F7D3B71E6]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[production_clean_B19061B30D254D4896DC54BF1F73CF5B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Element</remote-name>
@@ -89,7 +87,7 @@
               <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
               <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[production_clean_9EF4351504A441DEBF215A0F7D3B71E6]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[production_clean_B19061B30D254D4896DC54BF1F73CF5B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Year</remote-name>
@@ -106,7 +104,7 @@
               <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
               <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[production_clean_9EF4351504A441DEBF215A0F7D3B71E6]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[production_clean_B19061B30D254D4896DC54BF1F73CF5B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Unit</remote-name>
@@ -125,7 +123,7 @@
               <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_WLONGVARCHAR&quot;</attribute>
               <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_WCHAR&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[production_clean_9EF4351504A441DEBF215A0F7D3B71E6]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[production_clean_B19061B30D254D4896DC54BF1F73CF5B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
             <remote-name>Value</remote-name>
@@ -142,16 +140,17 @@
               <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_DOUBLE&quot;</attribute>
               <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_DOUBLE&quot;</attribute>
             </attributes>
-            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[production_clean_9EF4351504A441DEBF215A0F7D3B71E6]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[production_clean_B19061B30D254D4896DC54BF1F73CF5B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
         </metadata-records>
       </connection>
       <aliases enabled='yes' />
-      <column datatype='string' name='[Item]' role='dimension' type='nominal' />
+      <column caption='Area1' datatype='string' name='[Area]' role='dimension' type='nominal' />
+      <column caption='Item1' datatype='string' name='[Item]' role='dimension' type='nominal' />
       <column datatype='real' name='[Value]' role='measure' type='quantitative' />
-      <column datatype='integer' name='[Year]' role='dimension' type='quantitative' />
-      <_.fcp.ObjectModelTableType.true...column caption='production_clean' datatype='table' name='[__tableau_internal_object_id__].[production_clean_9EF4351504A441DEBF215A0F7D3B71E6]' role='measure' type='quantitative' />
-      <column-instance column='[__tableau_internal_object_id__].[production_clean_9EF4351504A441DEBF215A0F7D3B71E6]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:production_clean_9EF4351504A441DEBF215A0F7D3B71E6:qk]' pivot='key' type='quantitative' />
+      <column caption='Year1' datatype='integer' name='[Year]' role='dimension' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='production_clean' datatype='table' name='[__tableau_internal_object_id__].[production_clean_B19061B30D254D4896DC54BF1F73CF5B]' role='measure' type='quantitative' />
+      <column-instance column='[Value]' derivation='Count' name='[cnt:Value:qk]' pivot='key' type='quantitative' />
       <column-instance column='[Item]' derivation='None' name='[none:Item:nk]' pivot='key' type='nominal' />
       <column-instance column='[Value]' derivation='Sum' name='[sum:Value:qk]' pivot='key' type='quantitative' />
       <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
@@ -162,38 +161,41 @@
               <bucket>&quot;[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[__tableau_internal_object_id__].[cnt:production_clean_9EF4351504A441DEBF215A0F7D3B71E6:qk]&quot;</bucket>
             </map>
             <map to='#f28e2b'>
+              <bucket>&quot;[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[cnt:Value:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
               <bucket>&quot;[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[sum:Value:qk]&quot;</bucket>
             </map>
           </encoding>
-          <encoding attr='color' field='[none:Item:nk]' type='palette'>
-            <map to='#4e79a7'>
-              <bucket>&quot;Maize (corn)&quot;</bucket>
-            </map>
-            <map to='#59a14f'>
-              <bucket>&quot;Barley&quot;</bucket>
-            </map>
-            <map to='#76b7b2'>
-              <bucket>&quot;Soya beans&quot;</bucket>
-            </map>
-            <map to='#9c755f'>
-              <bucket>&quot;Rye&quot;</bucket>
-            </map>
-            <map to='#b07aa1'>
-              <bucket>&quot;Millet&quot;</bucket>
-            </map>
-            <map to='#bab0ac'>
+          <encoding attr='color' field='[none:Item:nk]' palette='green_orange_cyan_yellow_10_0' type='palette'>
+            <map to='#3ca8bc'>
               <bucket>&quot;Quinoa&quot;</bucket>
             </map>
-            <map to='#e15759'>
-              <bucket>&quot;Wheat&quot;</bucket>
+            <map to='#4e9f50'>
+              <bucket>&quot;Barley&quot;</bucket>
             </map>
-            <map to='#edc948'>
-              <bucket>&quot;Sorghum&quot;</bucket>
+            <map to='#87d180'>
+              <bucket>&quot;Maize (corn)&quot;</bucket>
             </map>
-            <map to='#f28e2b'>
+            <map to='#94a323'>
+              <bucket>&quot;Rye&quot;</bucket>
+            </map>
+            <map to='#98d9e4'>
               <bucket>&quot;Rice&quot;</bucket>
             </map>
-            <map to='#ff9da7'>
+            <map to='#a08400'>
+              <bucket>&quot;Soya beans&quot;</bucket>
+            </map>
+            <map to='#c3ce3d'>
+              <bucket>&quot;Sorghum&quot;</bucket>
+            </map>
+            <map to='#ef8a0c'>
+              <bucket>&quot;Millet&quot;</bucket>
+            </map>
+            <map to='#f7d42a'>
+              <bucket>&quot;Wheat&quot;</bucket>
+            </map>
+            <map to='#fcc66d'>
               <bucket>&quot;Oats&quot;</bucket>
             </map>
           </encoding>
@@ -205,7 +207,7 @@
       <date-options start-of-week='monday' />
       <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
         <objects>
-          <object caption='production_clean' id='production_clean_9EF4351504A441DEBF215A0F7D3B71E6'>
+          <object caption='production_clean' id='production_clean_B19061B30D254D4896DC54BF1F73CF5B'>
             <properties context=''>
               <relation connection='mysql.12mnjng08yujxv1daetq81or2mri' name='production_clean' table='[production_clean]' type='table' />
             </properties>
@@ -232,8 +234,8 @@
             <datasource caption='production_clean (final_project_db)' name='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc' />
           </datasources>
           <datasource-dependencies datasource='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc'>
-            <column datatype='string' name='[Area]' role='dimension' type='nominal' />
-            <column datatype='string' name='[Item]' role='dimension' type='nominal' />
+            <column caption='Area1' datatype='string' name='[Area]' role='dimension' type='nominal' />
+            <column caption='Item1' datatype='string' name='[Item]' role='dimension' type='nominal' />
             <column datatype='real' name='[Value]' role='measure' type='quantitative' />
             <column-instance column='[Area]' derivation='None' name='[none:Area:nk]' pivot='key' type='nominal' />
             <column-instance column='[Item]' derivation='None' name='[none:Item:nk]' pivot='key' type='nominal' />
@@ -308,8 +310,8 @@
             <datasource caption='production_clean (final_project_db)' name='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc' />
           </datasources>
           <datasource-dependencies datasource='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc'>
-            <column datatype='string' name='[Area]' role='dimension' type='nominal' />
-            <column datatype='string' name='[Item]' role='dimension' type='nominal' />
+            <column caption='Area1' datatype='string' name='[Area]' role='dimension' type='nominal' />
+            <column caption='Item1' datatype='string' name='[Item]' role='dimension' type='nominal' />
             <column datatype='real' name='[Value]' role='measure' type='quantitative' />
             <column-instance column='[Area]' derivation='None' name='[none:Area:nk]' pivot='key' type='nominal' />
             <column-instance column='[Item]' derivation='None' name='[none:Item:nk]' pivot='key' type='nominal' />
@@ -328,9 +330,6 @@
             <min>480000000.0</min>
             <max>6609159790.0</max>
           </filter>
-          <shelf-sorts>
-            <shelf-sort-v2 dimension-to-sort='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Area:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[sum:Value:qk]' shelf='columns' />
-          </shelf-sorts>
           <slices>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Area:nk]</column>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Item:nk]</column>
@@ -375,8 +374,8 @@
             <datasource caption='production_clean (final_project_db)' name='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc' />
           </datasources>
           <datasource-dependencies datasource='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc'>
-            <column datatype='string' name='[Area]' role='dimension' type='nominal' />
-            <column datatype='string' name='[Item]' role='dimension' type='nominal' />
+            <column caption='Area1' datatype='string' name='[Area]' role='dimension' type='nominal' />
+            <column caption='Item1' datatype='string' name='[Item]' role='dimension' type='nominal' />
             <column datatype='real' name='[Value]' role='measure' type='quantitative' />
             <column-instance column='[Area]' derivation='None' name='[none:Area:nk]' pivot='key' type='nominal' />
             <column-instance column='[Item]' derivation='None' name='[none:Item:nk]' pivot='key' type='nominal' />
@@ -402,9 +401,6 @@
             <min>29795000.0</min>
             <max>233823600.0</max>
           </filter>
-          <shelf-sorts>
-            <shelf-sort-v2 dimension-to-sort='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Area:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[sum:Value:qk]' shelf='columns' />
-          </shelf-sorts>
           <slices>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[:Measure Names]</column>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Item:nk]</column>
@@ -450,8 +446,8 @@
             <datasource caption='production_clean (final_project_db)' name='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc' />
           </datasources>
           <datasource-dependencies datasource='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc'>
-            <column datatype='string' name='[Area]' role='dimension' type='nominal' />
-            <column datatype='string' name='[Item]' role='dimension' type='nominal' />
+            <column caption='Area1' datatype='string' name='[Area]' role='dimension' type='nominal' />
+            <column caption='Item1' datatype='string' name='[Item]' role='dimension' type='nominal' />
             <column datatype='real' name='[Value]' role='measure' type='quantitative' />
             <column-instance column='[Area]' derivation='None' name='[none:Area:nk]' pivot='key' type='nominal' />
             <column-instance column='[Item]' derivation='None' name='[none:Item:nk]' pivot='key' type='nominal' />
@@ -464,9 +460,6 @@
             <min>26555000.0</min>
             <max>106352847.0</max>
           </filter>
-          <shelf-sorts>
-            <shelf-sort-v2 dimension-to-sort='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Area:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[sum:Value:qk]' shelf='columns' />
-          </shelf-sorts>
           <slices>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Item:nk]</column>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[sum:Value:qk]</column>
@@ -510,8 +503,8 @@
             <datasource caption='production_clean (final_project_db)' name='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc' />
           </datasources>
           <datasource-dependencies datasource='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc'>
-            <column datatype='string' name='[Area]' role='dimension' type='nominal' />
-            <column datatype='string' name='[Item]' role='dimension' type='nominal' />
+            <column caption='Area1' datatype='string' name='[Area]' role='dimension' type='nominal' />
+            <column caption='Item1' datatype='string' name='[Item]' role='dimension' type='nominal' />
             <column datatype='real' name='[Value]' role='measure' type='quantitative' />
             <column-instance column='[Area]' derivation='None' name='[none:Area:nk]' pivot='key' type='nominal' />
             <column-instance column='[Item]' derivation='None' name='[none:Item:nk]' pivot='key' type='nominal' />
@@ -520,9 +513,6 @@
           <filter class='categorical' column='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Item:nk]'>
             <groupfilter function='member' level='[none:Item:nk]' member='&quot;Quinoa&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
-          <shelf-sorts>
-            <shelf-sort-v2 dimension-to-sort='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Area:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[sum:Value:qk]' shelf='columns' />
-          </shelf-sorts>
           <slices>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Item:nk]</column>
           </slices>
@@ -565,8 +555,8 @@
             <datasource caption='production_clean (final_project_db)' name='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc' />
           </datasources>
           <datasource-dependencies datasource='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc'>
-            <column datatype='string' name='[Area]' role='dimension' type='nominal' />
-            <column datatype='string' name='[Item]' role='dimension' type='nominal' />
+            <column caption='Area1' datatype='string' name='[Area]' role='dimension' type='nominal' />
+            <column caption='Item1' datatype='string' name='[Item]' role='dimension' type='nominal' />
             <column datatype='real' name='[Value]' role='measure' type='quantitative' />
             <column-instance column='[Area]' derivation='None' name='[none:Area:nk]' pivot='key' type='nominal' />
             <column-instance column='[Item]' derivation='None' name='[none:Item:nk]' pivot='key' type='nominal' />
@@ -585,9 +575,6 @@
             <min>830000000.0</min>
             <max>4130237523.0</max>
           </filter>
-          <shelf-sorts>
-            <shelf-sort-v2 dimension-to-sort='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Area:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[sum:Value:qk]' shelf='columns' />
-          </shelf-sorts>
           <slices>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Item:nk]</column>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Area:nk]</column>
@@ -632,8 +619,8 @@
             <datasource caption='production_clean (final_project_db)' name='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc' />
           </datasources>
           <datasource-dependencies datasource='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc'>
-            <column datatype='string' name='[Area]' role='dimension' type='nominal' />
-            <column datatype='string' name='[Item]' role='dimension' type='nominal' />
+            <column caption='Area1' datatype='string' name='[Area]' role='dimension' type='nominal' />
+            <column caption='Item1' datatype='string' name='[Item]' role='dimension' type='nominal' />
             <column datatype='real' name='[Value]' role='measure' type='quantitative' />
             <column-instance column='[Area]' derivation='None' name='[none:Area:nk]' pivot='key' type='nominal' />
             <column-instance column='[Item]' derivation='None' name='[none:Item:nk]' pivot='key' type='nominal' />
@@ -652,9 +639,6 @@
             <min>16000000.0</min>
             <max>71821935.0</max>
           </filter>
-          <shelf-sorts>
-            <shelf-sort-v2 dimension-to-sort='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Area:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[sum:Value:qk]' shelf='columns' />
-          </shelf-sorts>
           <slices>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Item:nk]</column>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Area:nk]</column>
@@ -692,7 +676,7 @@
       </table>
       <simple-id uuid='{60B5C8F9-9925-4C96-9F82-C04C936D1CF9}' />
     </worksheet>
-    <worksheet name='Sheet 13'>
+    <worksheet name='Sheet 14'>
       <table>
         <view>
           <datasources />
@@ -710,7 +694,7 @@
         <rows />
         <cols />
       </table>
-      <simple-id uuid='{6B7844B7-8B41-46F8-BBC5-86F655872455}' />
+      <simple-id uuid='{76E385DC-9BE8-497E-9756-F8693C6FE968}' />
     </worksheet>
     <worksheet name='Sorghum'>
       <table>
@@ -719,8 +703,8 @@
             <datasource caption='production_clean (final_project_db)' name='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc' />
           </datasources>
           <datasource-dependencies datasource='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc'>
-            <column datatype='string' name='[Area]' role='dimension' type='nominal' />
-            <column datatype='string' name='[Item]' role='dimension' type='nominal' />
+            <column caption='Area1' datatype='string' name='[Area]' role='dimension' type='nominal' />
+            <column caption='Item1' datatype='string' name='[Item]' role='dimension' type='nominal' />
             <column datatype='real' name='[Value]' role='measure' type='quantitative' />
             <column-instance column='[Area]' derivation='None' name='[none:Area:nk]' pivot='key' type='nominal' />
             <column-instance column='[Item]' derivation='None' name='[none:Item:nk]' pivot='key' type='nominal' />
@@ -733,9 +717,6 @@
             <min>68000000.0</min>
             <max>212962530.0</max>
           </filter>
-          <shelf-sorts>
-            <shelf-sort-v2 dimension-to-sort='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Area:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[sum:Value:qk]' shelf='columns' />
-          </shelf-sorts>
           <slices>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Item:nk]</column>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[sum:Value:qk]</column>
@@ -779,8 +760,8 @@
             <datasource caption='production_clean (final_project_db)' name='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc' />
           </datasources>
           <datasource-dependencies datasource='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc'>
-            <column datatype='string' name='[Area]' role='dimension' type='nominal' />
-            <column datatype='string' name='[Item]' role='dimension' type='nominal' />
+            <column caption='Area1' datatype='string' name='[Area]' role='dimension' type='nominal' />
+            <column caption='Item1' datatype='string' name='[Item]' role='dimension' type='nominal' />
             <column datatype='real' name='[Value]' role='measure' type='quantitative' />
             <column-instance column='[Area]' derivation='None' name='[none:Area:nk]' pivot='key' type='nominal' />
             <column-instance column='[Item]' derivation='None' name='[none:Item:nk]' pivot='key' type='nominal' />
@@ -799,9 +780,6 @@
             <min>210000000.0</min>
             <max>1925813780.0</max>
           </filter>
-          <shelf-sorts>
-            <shelf-sort-v2 dimension-to-sort='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Area:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[sum:Value:qk]' shelf='columns' />
-          </shelf-sorts>
           <slices>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Item:nk]</column>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Area:nk]</column>
@@ -839,6 +817,46 @@
       </table>
       <simple-id uuid='{9AC3105C-C17A-4B25-BC18-EA542F9A9B1B}' />
     </worksheet>
+    <worksheet name='Tendency of production'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='production_clean (final_project_db)' name='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc'>
+            <column caption='Item1' datatype='string' name='[Item]' role='dimension' type='nominal' />
+            <column datatype='real' name='[Value]' role='measure' type='quantitative' />
+            <column caption='Year1' datatype='integer' name='[Year]' role='dimension' type='quantitative' />
+            <column-instance column='[Value]' derivation='Count' name='[cnt:Value:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Item]' derivation='None' name='[none:Item:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Year]' derivation='None' name='[none:Year:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Item:nk]' />
+              <text column='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Item:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[cnt:Value:qk]</rows>
+        <cols>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Year:qk]</cols>
+      </table>
+      <simple-id uuid='{6B7844B7-8B41-46F8-BBC5-86F655872455}' />
+    </worksheet>
     <worksheet name='Top 10 Cereals'>
       <table>
         <view>
@@ -846,9 +864,9 @@
             <datasource caption='production_clean (final_project_db)' name='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc' />
           </datasources>
           <datasource-dependencies datasource='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc'>
-            <column datatype='string' name='[Item]' role='dimension' type='nominal' />
+            <column caption='Item1' datatype='string' name='[Item]' role='dimension' type='nominal' />
             <column datatype='real' name='[Value]' role='measure' type='quantitative' />
-            <column datatype='integer' name='[Year]' role='dimension' type='quantitative' />
+            <column caption='Year1' datatype='integer' name='[Year]' role='dimension' type='quantitative' />
             <column-instance column='[Item]' derivation='None' name='[none:Item:nk]' pivot='key' type='nominal' />
             <column-instance column='[Year]' derivation='None' name='[none:Year:qk]' pivot='key' type='quantitative' />
             <column-instance column='[Value]' derivation='Sum' name='[sum:Value:qk]' pivot='key' type='quantitative' />
@@ -907,7 +925,7 @@
             <datasource caption='production_clean (final_project_db)' name='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc' />
           </datasources>
           <datasource-dependencies datasource='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc'>
-            <column datatype='string' name='[Area]' role='dimension' type='nominal' />
+            <column caption='Area1' datatype='string' name='[Area]' role='dimension' type='nominal' />
             <column datatype='real' name='[Value]' role='measure' type='quantitative' />
             <column-instance column='[Area]' derivation='None' name='[none:Area:nk]' pivot='key' type='nominal' />
             <column-instance column='[Value]' derivation='Sum' name='[sum:Value:qk]' pivot='key' type='quantitative' />
@@ -922,9 +940,6 @@
             <min>1063000000.0</min>
             <max>10955191143.0</max>
           </filter>
-          <shelf-sorts>
-            <shelf-sort-v2 dimension-to-sort='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Area:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[sum:Value:qk]' shelf='columns' />
-          </shelf-sorts>
           <slices>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Area:nk]</column>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[sum:Value:qk]</column>
@@ -968,8 +983,8 @@
             <datasource caption='production_clean (final_project_db)' name='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc' />
           </datasources>
           <datasource-dependencies datasource='federated.1rbh8tq0v50f3n1f20o1s0lvu1fc'>
-            <column datatype='string' name='[Area]' role='dimension' type='nominal' />
-            <column datatype='string' name='[Item]' role='dimension' type='nominal' />
+            <column caption='Area1' datatype='string' name='[Area]' role='dimension' type='nominal' />
+            <column caption='Item1' datatype='string' name='[Item]' role='dimension' type='nominal' />
             <column datatype='real' name='[Value]' role='measure' type='quantitative' />
             <column-instance column='[Area]' derivation='None' name='[none:Area:nk]' pivot='key' type='nominal' />
             <column-instance column='[Item]' derivation='None' name='[none:Item:nk]' pivot='key' type='nominal' />
@@ -988,9 +1003,6 @@
             <min>766000000.0</min>
             <max>2406275642.0</max>
           </filter>
-          <shelf-sorts>
-            <shelf-sort-v2 dimension-to-sort='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Area:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[sum:Value:qk]' shelf='columns' />
-          </shelf-sorts>
           <slices>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Item:nk]</column>
             <column>[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Area:nk]</column>
@@ -1051,14 +1063,14 @@
           </strip>
         </edge>
         <edge name='right'>
-          <strip size='160'>
+          <strip size='100'>
             <card pane-specification-id='0' param='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[sum:Value:qk]' type='color' />
           </strip>
         </edge>
       </cards>
       <simple-id uuid='{0BABDEBE-90C2-412F-895B-35F965F6B3D7}' />
     </window>
-    <window class='worksheet' maximized='true' name='Barley'>
+    <window class='worksheet' name='Barley'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1311,7 +1323,35 @@
       </cards>
       <simple-id uuid='{A0EFE22B-197C-40CE-A740-CFC4BBBD6E58}' />
     </window>
-    <window class='worksheet' name='Sheet 13'>
+    <window class='worksheet' maximized='true' name='Tendency of production'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1rbh8tq0v50f3n1f20o1s0lvu1fc].[none:Item:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{F2ED6E30-9B8E-49FE-90BF-1B2497561142}' />
+    </window>
+    <window class='worksheet' name='Sheet 14'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1332,7 +1372,7 @@
           </strip>
         </edge>
       </cards>
-      <simple-id uuid='{F2ED6E30-9B8E-49FE-90BF-1B2497561142}' />
+      <simple-id uuid='{347B9EF0-B316-4627-B70B-25EF221F59B0}' />
     </window>
   </windows>
 </workbook>
